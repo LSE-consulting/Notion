@@ -1,5 +1,5 @@
 {
-    "hitCount": 102,
+    "hitCount": 103,
     "noticeList": [
         {
             "score": 1,
@@ -71,6 +71,42 @@
                 "regionText": "Any region",
                 "start": "2029-01-09T00:00:00Z",
                 "end": "2029-01-10T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "376884b7-36dc-4e75-95f2-e35f4bb9755a",
+                "parentId": null,
+                "noticeIdentifier": "RA359362",
+                "title": "RA359362 - Occupational Health",
+                "description": "Please see specification below. Please contact lewis.atkinson@londonenergyltd.com with any proposals or clarifications. \r\n\r\ni.\tLondonEnergy Ltd (&quot;LEL&quot;) is seeking to appoint a suitable qualified and experienced Occupational Health (&quot;OH&quot;) provider to deliver a comprehensive, responsive and proactive Occupational Health Service to support the health, wellbeing and attendance management of our 350+ workforce.\r\n\r\nThe appointed provider will work in partnership with LEL to deliver high-quality occupational health services that support employee wellbeing, promote fitness for work, facilitate effective case management and assist the organisation in meeting its legal and statutory obligations under relevant health and safety and employment legislation.\r\n\r\nLEL employs a diverse workforce operating across office-based, operational and engineering environments, with employees undertaking a range of safety-critical and physically demanding roles. As such, the Occupational Health Service must be capable of providing timely, pragmatic and evidence-based advice to managers, employees and the Human Resources team.\r\n\r\nThe successful provider will be expected to deliver a modern, flexible and customer-focused service incorporating both remote and face-to-face appointments where appropriate, supported by secure digital systems, robust management information and effective account management.\r\n\r\nii.\tGeneral\r\n\u2022\tAbility to book face-to-face OH appointments where the case would benefit from a face-to-face appt.\r\n\u2022\tLocal clinic or local hub where face-to-face appointments can be held located close to Eco Park, Tottenham Hale or Liverpool Street. \r\n\u2022\tAbility to book urgent OH appointments and not just rely on cancellations being available to do so.\r\n\u2022\tRegular meetings with our client relationship manager.\r\n\u2022\tAbility to have a case conference call with the OH doctor, if possible, for complex cases.      \r\n\u2022\tSupply of useful data to us by OH provider on a quarterly basis to feed into the Board Report.\r\n\u2022\tUser friendly OH portal to make referrals on and then be able to see the reports on and historical reports for employees too.    \r\n\r\niii.\tTechnology\r\n\u2022\tSecure online portal\r\n\u2022\tAbility to communicate directly with physician \r\n\u2022\tAbility to integrate with HR systems in future / API&#039;s\r\n\u2022\tElectronic referral and reporting\r\n\r\niv.\tData and Reporting\r\n\r\nOur existing providers ability to pull any data/reporting is non-existent. Would like to see a secure portal and understand what management information can be provided on a month basis i.e.\r\n\u2022\tReferral volumes\r\n\u2022\tReferral reasons\r\n\u2022\tDepartment trends\r\n\u2022\tAbsence hotspots\r\n\u2022\tSafety Critical roles\r\n\u2022\tDrivers\r\n\u2022\tShift work\r\n\r\n\r\nv.\tAdditional Services\r\n\u2022\tErgonomic assessments\r\n\u2022\tManager training\r\n\u2022\tHealth/wellbeing initiatives\r\n - To access this competition: login to https://suppliers.multiquote.com and view the opportunity RA359362. Not registered on MultiQuote - visit https://suppliers.multiquote.com then register and quote RA359362 as the reason for registration. Any queries please contact MultiQuote on 0151 482 9230.",
+                "cpvDescription": "Business services: law, marketing, consulting, recruitment, printing and security",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-07-20T13:14:38+01:00",
+                "deadlineDate": "2026-07-31T17:30:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "N18 3AG",
+                "coordinates": "51.614927,-0.067741",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-07-20T13:14:38+01:00",
+                "organisationName": "LondonEnergy Ltd",
+                "sector": "",
+                "cpvCodes": "79000000",
+                "cpvCodesExtended": "79000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-08-31T00:00:00+01:00",
+                "end": "2028-08-30T00:00:00+01:00"
             }
         },
         {
@@ -1156,6 +1192,42 @@
         {
             "score": 1,
             "item": {
+                "id": "f707ca70-1c67-4710-9950-8ef40494eaee",
+                "parentId": null,
+                "noticeIdentifier": "C&W_GHSS26",
+                "title": "Cheshire and Warrington Growth Hub  Business Support Services",
+                "description": "This ITT sets out the information which is required in order to assess the suitability of bidders in terms of their capacity to deliver flexible, responsive business support, quality assurance processes, relationship management, service levels and innovative solutions to meet the requirements of ECW for Cheshire and Warrington Growth Hub Support Services\r\nAcross Cheshire and Warrington, businesses have had access to a wide range of support offers. However, this provision is often time limited, programme specific, or fragmented across organisations, which can make navigation difficult for SMEs. Businesses frequently report uncertainty about who does what, leading to disengagement after initial enquiry. The available services have been curtailed recently due to funding reductions.\r\nECW is commissioning a service to address this gap on an interim basis via an embedded service within the existing Cheshire and Warrington Growth Hub. The service should be designed to also add resource to the National Business Growth Service by ensuring businesses receive timely, proportionate, hands on support that helps them take action and progress.\r\nThe additional service will operate as part of the Growth Hub and is intended to complement, existing provision at a national, regional and local level. The interim provision will include practical delivery, hands on adviser support, follow up, and business readiness -ensuring clear referral pathways, feedback loops, and effective navigation across the ecosystem.\r\n\r\nECW wish to secure efficiencies and economies of scale by means of a procurement exercise for meeting the requirements detailed within this documentation. The principle benefits anticipated by ECW in this procurement include;\r\n\u2022\tAbility to maximise opportunities for best value and efficient services\r\n\u2022\tTo allow bidders to explore efficiencies, which may be possible by suggesting innovative and cost-effective solutions\r\n\u2022\tPresentation of cost savings to ECW in order to maximise economical operational efficiency and value for money\r\n\u2022\tA resultant contract that meets the tender requirements and supports ECW with their ambition \r\nThis service would be commissioned on an interim basis for 12 months, with quarterly reviews. This is intended to maintain continuity of business support during the transition to a Cheshire and Warrington Combined Authority-led service, while also establishing a scalable model capable of adapting to future devolved arrangements.\r\nDuring the contract life, the successful bidder will need to achieve continuous improvement against KPIs, customer satisfaction and other contract measures.  Failure to do so may result in the contract being terminated.",
+                "cpvDescription": "Business and management consultancy services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services",
+                "publishedDate": "2026-06-30T12:57:11+01:00",
+                "deadlineDate": "2026-07-31T16:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 140000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-21T09:42:11+01:00",
+                "organisationName": "ENTERPRISE CHESHIRE AND WARRINGTON",
+                "sector": null,
+                "cpvCodes": "79410000",
+                "cpvCodesExtended": "79000000 79400000",
+                "region": "North West",
+                "regionText": "North West",
+                "start": "2026-08-24T00:00:00+01:00",
+                "end": "2027-08-23T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "2beac901-5c90-4a54-a056-037d888aa354",
                 "parentId": null,
                 "noticeIdentifier": "RM6264",
@@ -1790,7 +1862,7 @@
                 "noticeStatus": "Open",
                 "isSuitableForSme": true,
                 "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-07-17T17:41:47+01:00",
+                "lastNotifableUpdate": "2026-07-21T10:00:24+01:00",
                 "organisationName": "MINISTRY OF DEFENCE",
                 "sector": null,
                 "cpvCodes": "73000000 80320000",
@@ -1799,6 +1871,78 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
                 "start": "",
                 "end": ""
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "22fe743a-bde5-42d7-a284-e0d3a4eb72f2",
+                "parentId": "fa247674-4cb9-430a-b65c-615f2953b6ab",
+                "noticeIdentifier": "CF-0002100DQH00000FUqLV2A1",
+                "title": "FSF Dynamic Purchasing System 2 For the Provision of Work Focused Activities",
+                "description": "The Department for Work and Pensions (DWP) established a Dynamic Purchasing System (DPS) to procure Work Focused Activities for Jobcentre Plus Districts in England, Scotland and Wales via the previous DWP eProcurement Solution (ePS).\r\n\r\nDWP has now migrated to a new ePS, Atamis and DWP are therefore reissuing this notice via the Atamis portal. However, please note that &#039;online&#039; applications to join the FSF DPS 2 via the Atamis Portal are currently suspended and a temporary &#039;offline&#039; process is in place, further details are below.\r\n\r\nThe DPS is for the procurement of social and other services referred to in Regulation 74 of the Public Contracts Regulations (2015) and as such, the intention is to use a light touch regime, rather than the full regime described in Regulation 34 (Dynamic Purchasing System). The DPS is for the sole use of DWP.\r\n\r\nThe Flexible Support Fund Dynamic Purchasing System 2 - For the Provision of Work Focused Activities (FSF DPS 2) is the replacement for the DWP Dynamic Purchasing System for provision of work-focused activities known as the Flexible Support Fund DPS (FSF DPS). The FSF DPS expired on 31 October 2021 and was replaced by the FSF DPS 2 with effect from 1 November 2021.\r\n\r\nCurrently the &#039;online&#039; application process is suspended, and a temporary &#039;offline&#039; process is in operation. Any new supplier wishing to apply to join the FSF DPS 2 should send an email to cdfsf.adhocprocurement@dwp.gov.uk requesting to apply to join the FSF DPS 2, and the relevant information will be sent to you via email.\r\n\r\nAlthough DWP are currently operating an &#039;offline&#039; process to join the FSF DPS 2, suppliers will still be required to create an account on Atamis. Suppliers can do this via the link below, which will take you to the DWP Atamis landing page. To ensure that the page functions correctly, you must accept browser cookies\r\n\r\nhttps://dwp2.my.site.com/s/Welcome\r\n\r\nFrom this landing page, new suppliers will be able to create an Atamis account by selecting the &quot;Supplier Registration Here&quot; button and following the on screen instructions. \r\n\r\nThe landing page also has a link to the Supplier Portal Help page, where you will find an article to help with registering for an account\r\n\r\nhttps://suppliersupport.atamis.co.uk/hc/en-gb/articles/4613254620319-Registering-with-a-Supplier-Portal\r\n\r\nEstimated overall value of this DPS will be &#xA3;250,000,000.00\r\n\r\n\r\nAdditional Information\r\nAs of 1 January 2021, the internationally comparable regional geography for the UK is the International Territorial Levels (ITLs) geography.\r\n\r\nThis has replaced the Nomenclature of territorial units for statistics (NUTS) geographies for the UK that were operational when the UK was a member of the European Union. Please refer to the spreadsheet to see how the NUTS Code correspond to the ITL Codes at Level 1, Level 2, and Level 3.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2025-10-30T07:54:45Z",
+                "deadlineDate": "2029-02-23T23:59:00Z",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 499999.99,
+                "postcode": "SW1H 9NA",
+                "coordinates": "51.498,-0.133",
+                "isSubNotice": true,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-20T15:15:03+01:00",
+                "organisationName": "Department for Work and Pensions",
+                "sector": "",
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "Scotland,Wales,North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "Scotland,Wales,North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "2029-02-26T00:00:00Z",
+                "end": "2029-02-27T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "4623e259-5f4d-4ec6-8de7-f946758c3fe9",
+                "parentId": null,
+                "noticeIdentifier": "71145576-4e00-4281-b444-38d52fc479dd",
+                "title": "CA18255 - RFQ2026/24 - NMANDD PEACEPLUS Thriving Together-Minority Community Support Programme: Sports for All for the Newry, Mourne and Down District Council area.",
+                "description": "Competent consultancy companies are hereby invited to tender to design, develop and deliver a minority community support programme.  This project will engage a skilled inclusive sports facilitator to support children with disabilities to participate in a diverse range of accessible sports and recreational activities. \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18255.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18255 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services",
+                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services",
+                "publishedDate": "2026-07-20T14:09:20+01:00",
+                "deadlineDate": "2026-08-18T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-07-20T14:09:20+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "92000000 80000000 98000000",
+                "cpvCodesExtended": "92000000 80000000 98000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-09-07T00:00:00+01:00",
+                "end": "2026-12-31T00:00:00Z"
             }
         },
         {
@@ -2164,42 +2308,6 @@
         {
             "score": 1,
             "item": {
-                "id": "f707ca70-1c67-4710-9950-8ef40494eaee",
-                "parentId": null,
-                "noticeIdentifier": "C&W_GHSS26",
-                "title": "Cheshire and Warrington Growth Hub  Business Support Services",
-                "description": "This ITT sets out the information which is required in order to assess the suitability of bidders in terms of their capacity to deliver flexible, responsive business support, quality assurance processes, relationship management, service levels and innovative solutions to meet the requirements of ECW for Cheshire and Warrington Growth Hub Support Services\r\nAcross Cheshire and Warrington, businesses have had access to a wide range of support offers. However, this provision is often time limited, programme specific, or fragmented across organisations, which can make navigation difficult for SMEs. Businesses frequently report uncertainty about who does what, leading to disengagement after initial enquiry. The available services have been curtailed recently due to funding reductions.\r\nECW is commissioning a service to address this gap on an interim basis via an embedded service within the existing Cheshire and Warrington Growth Hub. The service should be designed to also add resource to the National Business Growth Service by ensuring businesses receive timely, proportionate, hands on support that helps them take action and progress.\r\nThe additional service will operate as part of the Growth Hub and is intended to complement, existing provision at a national, regional and local level. The interim provision will include practical delivery, hands on adviser support, follow up, and business readiness -ensuring clear referral pathways, feedback loops, and effective navigation across the ecosystem.\r\n\r\nECW wish to secure efficiencies and economies of scale by means of a procurement exercise for meeting the requirements detailed within this documentation. The principle benefits anticipated by ECW in this procurement include;\r\n\u2022\tAbility to maximise opportunities for best value and efficient services\r\n\u2022\tTo allow bidders to explore efficiencies, which may be possible by suggesting innovative and cost-effective solutions\r\n\u2022\tPresentation of cost savings to ECW in order to maximise economical operational efficiency and value for money\r\n\u2022\tA resultant contract that meets the tender requirements and supports ECW with their ambition \r\nThis service would be commissioned on an interim basis for 12 months, with quarterly reviews. This is intended to maintain continuity of business support during the transition to a Cheshire and Warrington Combined Authority-led service, while also establishing a scalable model capable of adapting to future devolved arrangements.\r\nDuring the contract life, the successful bidder will need to achieve continuous improvement against KPIs, customer satisfaction and other contract measures.  Failure to do so may result in the contract being terminated.",
-                "cpvDescription": "Business and management consultancy services and General management consultancy services and Financial management consultancy services and Marketing management consultancy services and Human resources management consultancy services and Production management consultancy services and Public relations services and Safety consultancy services and Procurement consultancy services and Evaluation consultancy services",
-                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services, Business and management consultancy services",
-                "publishedDate": "2026-06-30T12:57:11+01:00",
-                "deadlineDate": "2026-07-21T16:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 140000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-06-30T13:57:25+01:00",
-                "organisationName": "ENTERPRISE CHESHIRE AND WARRINGTON",
-                "sector": null,
-                "cpvCodes": "79410000 79411000 79412000 79413000 79414000 79415000 79416000 79417000 79418000 79419000",
-                "cpvCodesExtended": "79000000 79400000 79410000",
-                "region": "North West",
-                "regionText": "North West",
-                "start": "2026-08-24T00:00:00+01:00",
-                "end": "2027-08-23T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "15842abb-57c1-4ba0-9960-c7cfbb657828",
                 "parentId": null,
                 "noticeIdentifier": "UKPACT-ED 40",
@@ -2308,42 +2416,6 @@
         {
             "score": 1,
             "item": {
-                "id": "b38ea0d7-343f-4bad-9f66-b5b89cd07d8a",
-                "parentId": null,
-                "noticeIdentifier": "701b478a-6753-4b80-83e0-7f90f7ddee0b",
-                "title": "CA18115 - Tender 41/2026 - NMANDD PEACEPLUS Thriving Together Social and Emotional Support Programmes.  Rhythm Across Generations, for the Newry, Mourne and Down District Council area.",
-                "description": "Competent consultancy companies are hereby invited to tender to design, develop and deliver a Social and Emotional Intergenerational Support programme, focusing on music and dance.\r\nThis project will deliver 7 intergenerational Music and Dance programmes, delivered across the Council area with one per District Electoral Area (DEA).  \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18115.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18115 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services",
-                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services",
-                "publishedDate": "2026-06-23T15:39:15+01:00",
-                "deadlineDate": "2026-07-21T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-06-23T15:39:15+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "92000000 80000000 98000000",
-                "cpvCodesExtended": "92000000 80000000 98000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-08-12T00:00:00+01:00",
-                "end": "2027-06-30T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "48efe08b-58e2-41a3-ab4e-10fff0d58c43",
                 "parentId": "14b18b36-a819-4887-aaa9-1236df1670d9",
                 "noticeIdentifier": "CF-0009300DQH00000CdCC52AN",
@@ -2375,42 +2447,6 @@
                 "regionText": "South West",
                 "start": "2026-10-01T00:00:00+01:00",
                 "end": "2027-03-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "fa247674-4cb9-430a-b65c-615f2953b6ab",
-                "parentId": "733330cc-87bf-4859-9aa2-ab6809e757ec",
-                "noticeIdentifier": "CF-0002100DQH00000FUqLV2A1",
-                "title": "FSF Dynamic Purchasing System 2 For the Provision of Work Focused Activities",
-                "description": "The Department for Work and Pensions (DWP) established a Dynamic Purchasing System (DPS) to procure Work Focused Activities for Jobcentre Plus Districts in England, Scotland and Wales via the previous DWP eProcurement Solution (ePS).\r\n\r\nDWP has now migrated to a new ePS, Atamis and DWP are therefore reissuing this notice via the Atamis portal. However, please note that &#039;online&#039; applications to join the FSF DPS 2 via the Atamis Portal are currently suspended and a temporary &#039;offline&#039; process is in place, further details are below.\r\n\r\nThe DPS is for the procurement of social and other services referred to in Regulation 74 of the Public Contracts Regulations (2015) and as such, the intention is to use a light touch regime, rather than the full regime described in Regulation 34 (Dynamic Purchasing System). The DPS is for the sole use of DWP.\r\n\r\nThe Flexible Support Fund Dynamic Purchasing System 2 - For the Provision of Work Focused Activities (FSF DPS 2) is the replacement for the DWP Dynamic Purchasing System for provision of work-focused activities known as the Flexible Support Fund DPS (FSF DPS). The FSF DPS expired on 31 October 2021 and was replaced by the FSF DPS 2 with effect from 1 November 2021.\r\n\r\nCurrently the &#039;online&#039; application process is suspended, and a temporary &#039;offline&#039; process is in operation. Any new supplier wishing to apply to join the FSF DPS 2 should send an email to cdfsf.adhocprocurement@dwp.gov.uk requesting to apply to join the FSF DPS 2, and the relevant information will be sent to you via email.\r\n\r\nAlthough DWP are currently operating an &#039;offline&#039; process to join the FSF DPS 2, suppliers will still be required to create an account on Atamis. Suppliers can do this via the link below, which will take you to the DWP Atamis landing page. To ensure that the page functions correctly, you must accept browser cookies\r\n\r\nhttps://dwp2.my.site.com/s/Welcome\r\n\r\nFrom this landing page, new suppliers will be able to create an Atamis account by selecting the &quot;Supplier Registration Here&quot; button and following the on screen instructions. \r\n\r\nThe landing page also has a link to the Supplier Portal Help page, where you will find an article to help with registering for an account\r\n\r\nhttps://suppliersupport.atamis.co.uk/hc/en-gb/articles/4613254620319-Registering-with-a-Supplier-Portal\r\n\r\nEstimated overall value of this DPS will be &#xA3;250,000,000.00\r\n\r\n\r\nAdditional Information\r\nAs of 1 January 2021, the internationally comparable regional geography for the UK is the International Territorial Levels (ITLs) geography.\r\n\r\nThis has replaced the Nomenclature of territorial units for statistics (NUTS) geographies for the UK that were operational when the UK was a member of the European Union. Please refer to the spreadsheet to see how the NUTS Code correspond to the ITL Codes at Level 1, Level 2, and Level 3.",
-                "cpvDescription": "Education and training services",
-                "cpvDescriptionExpanded": "Education and training services",
-                "publishedDate": "2025-10-30T07:54:45Z",
-                "deadlineDate": "2029-02-23T23:59:00Z",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 499999.99,
-                "postcode": "SW1H 9NA",
-                "coordinates": "51.498,-0.133",
-                "isSubNotice": true,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-04-23T16:33:42+01:00",
-                "organisationName": "Department for Work and Pensions",
-                "sector": "",
-                "cpvCodes": "80000000",
-                "cpvCodesExtended": "80000000",
-                "region": "Scotland,Wales,North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "regionText": "Scotland,Wales,North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "start": "2029-02-26T00:00:00Z",
-                "end": "2029-02-27T00:00:00Z"
             }
         },
         {
@@ -3679,7 +3715,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "41"
+                "value": "42"
             },
             {
                 "key": "Australia",
@@ -4712,7 +4748,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "94"
+                "value": "95"
             },
             {
                 "key": "Pipeline",
@@ -4729,7 +4765,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "102"
+                "value": "103"
             },
             {
                 "key": "Closed",

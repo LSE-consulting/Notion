@@ -1,5 +1,5 @@
 {
-    "hitCount": 103,
+    "hitCount": 105,
     "noticeList": [
         {
             "score": 1,
@@ -1156,6 +1156,42 @@
         {
             "score": 1,
             "item": {
+                "id": "ffb471dd-ccf4-4c0d-9059-54c0fb2db0c6",
+                "parentId": null,
+                "noticeIdentifier": "C4N116313880",
+                "title": "Lift Off - Q3 - Quieter Neighbourhood Support",
+                "description": "Heathrow Lift Off is a new concept developed in 2022 as an additional way to attract and work with SMEs. We envisage that Lift Off will provide the chance for selected innovative SMEs to meet with and present their products and services to a panel made up of Heathrow and our largest supply chain partner organisations. The participating SMEs will have opportunity to connect with Heathrow and key players in our supply chain. In addition, SMEs will also potentially be able to take part in relevant tenders and win business opportunities following up the event. SMEs chosen for each Lift Off event will be allocated with 25 mins for presentation and Q&amp;A.\r\n      \r\n      At Heathrow, we are committed to materially reducing the impact of aircraft noise on our neighbouring communities- recognising that this is not only an operational responsibility, but a critical component of maintaining trust, supporting quality of life, and enabling the long-term sustainability of the airport. The Quieter Neighbourhood Support (QNS) programme is a central pillar of this commitment, delivering targeted, property-level interventions that directly improve the lived experience of residents most affected by noise.\r\n      \r\n      Please see the attached documents where you can find more details on this opportunity. \r\n      \r\n      The Q3, 2026 Lift Off event is scheduled to be held on 18th September 2026.",
+                "cpvDescription": "Installation of outdoor illumination equipment and Noise pollution advisory services and Building construction work and Installation services of sound equipment and Noise-measuring equipment and Communication and multimedia software package and Environmental monitoring for construction and Acoustic devices and Modular furniture and Outdoor ventilation installation work and Installation work of roller blinds and Building surveying services and Installation of window frames and Environmental services and Data supply services and Sound insulation and Installation services (except software) and Installation of safety equipment and Building materials and Installation of thresholds and Communications server software package and Scheduling software package and Architectural, engineering and surveying services and Survey services and Installation of door and window frames and Sound-measuring equipment and Building-inspection services and Modular and portable buildings and Sound insulation and room acoustics consultancy services and Surveying services and Noise control services and Roof insulation work and Energy-efficiency consultancy services and Environmental quality control services and Noise pollution monitoring services and Marketing services and Environmental institution building or planning and Services related to noise pollution and Noise pollution protection services and Installation of windows and Sound insulation work and Installation of doors and Communication software package and Data management services and Building installation work and Stakeholders representation services and Thermal insulation work and Environmental Impact Assessment (EIA) services for construction and Document creation, drawing, imaging, scheduling and productivity software package and Noise fence and Noise-control consultancy services and Insulation work and Environmental protection and Installation of door frames and Architectural and building-surveying services and Installation of doors and windows and Provision of services to the community and Document creation, drawing, imaging, scheduling and productivity software development services and Repair and maintenance services of building installations and Installation of doors and windows and related components and Installation of metal joinery except doors and windows and Survey conduction services",
+                "cpvDescriptionExpanded": "Construction work, Building installation work, Electrical installation work, Installation work of illumination and signalling systems, Sewage, refuse, cleaning and environmental services, Environmental services, Pollutants tracking and monitoring and rehabilitation services, Services related to noise pollution, Works for complete or part construction and civil engineering work, Installation services (except software), Installation services of communications equipment, Installation services of radio, television, sound and video equipment, Laboratory, optical and precision equipments (excl. glasses), Instruments for checking physical characteristics, Detection and analysis apparatus, Analysers, Software package and information systems, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Environmental engineering consultancy services, Radio, television, communication, telecommunication and related equipment, Television and radio receivers, and sound or video recording or reproducing apparatus, Microphones and loudspeakers, Loudspeakers, Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products, Furniture, Miscellaneous furniture and equipment, Miscellaneous furniture, Plumbing and sanitary works, Heating, ventilation and air-conditioning installation work, Building completion work, Joinery and carpentry installation work, Joinery work, Building services, IT services: consulting, software development, Internet and support, Data services, Data-processing services, Construction structures and materials; auxiliary products to construction (except electric apparatus), Construction materials and associated items, Construction materials, Miscellaneous building structures, Construction work for pipelines, communication and power lines, for highways, roads, airfields and railways; flatwork, Construction, foundation and surface works for highways, roads, Networking, Internet and intranet software package, Networking software package, Miscellaneous networking software package, Document creation, drawing, imaging, scheduling and productivity software package, Scheduling and productivity software package, Architectural and related services, Business services: law, marketing, consulting, recruitment, printing and security, Market and economic research; polling and statistics, Market research services, Structural products, Structures and parts of structures, Prefabricated buildings, Engineering-related scientific and technical services, Roof works and other special trade construction works, Erection and related works of roof frames and coverings, Energy and related services, Environmental management, Environmental auditing, Advertising and marketing services, Environmental planning, Insulation work, Communication and multimedia software package, Database services, Legal services, Legal advisory and representation services, Legal representation services, Transport equipment and auxiliary products to transportation, Miscellaneous transport equipment and spare parts, Road equipment, Road furniture, Architectural, engineering and surveying services, Administration, defence and social security services, Software programming and consultancy services, Programming services of packaged software products, Programming services of application software, Repair and maintenance services, Survey services",
+                "publishedDate": "2026-07-22T12:10:05+01:00",
+                "deadlineDate": "2026-07-30T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 25000,
+                "valueHigh": 50000,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-07-22T12:10:05+01:00",
+                "organisationName": "Heathrow Airport Ltd",
+                "sector": "",
+                "cpvCodes": "45316100 90742400 45210000 51313000 38434300 48500000 71313450 32342400 39151300 45331211 45421145 71315300 45421112 90700000 72319000 44112600 51000000 45233292 44111000 45421120 48219700 48332000 71250000 79311000 45421110 38434200 71315400 44211100 71313200 71355000 90742100 45261410 71314300 90714500 90742300 79342000 90712500 90742000 90742200 45421132 45323000 45421131 48510000 72322000 45300000 79112100 45321000 71313440 48300000 34928230 71313100 45320000 90720000 45421111 71251000 45421130 75200000 72212300 50700000 45421100 45421140 79311200",
+                "cpvCodesExtended": "45000000 45300000 45310000 45316000 90000000 90700000 90740000 90742000 45200000 51000000 51300000 51310000 38000000 38400000 38430000 38434000 48000000 71000000 71300000 71310000 71313000 32000000 32300000 32340000 32342000 39000000 39100000 39150000 39151000 45330000 45331000 45400000 45420000 45421000 71315000 72000000 72300000 72310000 44000000 44100000 44110000 44112000 45230000 45233000 48200000 48210000 48219000 48300000 48330000 71200000 79000000 79300000 79310000 44200000 44210000 44211000 71350000 45260000 45261000 71314000 90710000 90714000 79340000 90712000 45320000 48500000 72320000 79100000 79110000 79112000 34000000 34900000 34920000 34928000 71250000 75000000 72200000 72210000 72212000 50000000 79311000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2028-01-03T00:00:00Z",
+                "end": "2028-01-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "17b95d86-4d3a-430f-a257-32d33c90e049",
                 "parentId": null,
                 "noticeIdentifier": "C4N115051883",
@@ -1835,6 +1871,42 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "15f6dcb9-118d-4113-8880-210096240a0d",
+                "parentId": null,
+                "noticeIdentifier": "NTC F4",
+                "title": "Invitation to Tender - Group learning module on urban nature finance",
+                "description": "CONTEXT\r\nNature Towns and Cities\u202fis a growing coalition, united by a shared mission to create greener, healthier and more resilient towns, cities and neighbourhoods and for millions more people to have access to nature close to home, no matter where they live. \r\n\r\nTHE COMMISSION\r\nAs part of this programme, we are developing a group learning offer for programme participants - primarily local authority practitioners, but also place-based partnerships of NGOs, community\u202forganisations\u202fand others.\u202fThe group leaning should help them to unlock new funding and finance for urban nature - benefitting people, place and nature. \r\nWe are looking for an external consultant, or consortium to develop and deliver a group learning course on funding and finance for urban nature, including but not limited to repayable investment and developing new funding models.  \r\n\r\nBUDGET\r\nWe have a maximum of &#xA3;20,000 (inc. VAT) for this work.\r\n\r\nINFO TO BE RETURNED\r\nSubmissions should include the following information: \r\n\u2022\tOutline of your proposed approach to the project, including details of how you would approach developing and delivering the course. \r\n\u2022\tDescription of your relevant experience and abridged CVs of the proposed project team. \r\n\u2022\tProposed budget breakdown. \r\n\u2022\tDetails of any matters or concerns not covered by this brief.  \r\n\r\nSubmissions should be no more than 10 pages in length. Abridged CVs can be included as appendices.  \r\nThese should be returned to anne.mackinnon@nationaltrust.org.uk by the deadline of 5pm, Friday 31st July 2026. \r\n\r\nPlease see the attached Invite to Tender document for full details.",
+                "cpvDescription": "Banking and investment services and Research and development consultancy services and Business and management consultancy and related services and Training services",
+                "cpvDescriptionExpanded": "Financial and insurance services, Research and development services and related consultancy services, Business services: law, marketing, consulting, recruitment, printing and security, Education and training services",
+                "publishedDate": "2026-07-21T15:28:50+01:00",
+                "deadlineDate": "2026-07-31T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 20000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-21T15:28:50+01:00",
+                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
+                "sector": null,
+                "cpvCodes": "66100000 73200000 79400000 80500000",
+                "cpvCodesExtended": "66000000 73000000 79000000 80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-08-17T00:00:00+01:00",
+                "end": "2027-01-30T00:00:00Z"
             }
         },
         {
@@ -3715,7 +3787,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "42"
+                "value": "43"
             },
             {
                 "key": "Australia",
@@ -3799,11 +3871,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "31"
+                "value": "32"
             },
             {
                 "key": "East of England",
-                "value": "33"
+                "value": "34"
             },
             {
                 "key": "Egypt",
@@ -3815,31 +3887,31 @@
             },
             {
                 "key": "North East",
-                "value": "31"
+                "value": "32"
             },
             {
                 "key": "North West",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "39"
+                "value": "40"
             },
             {
                 "key": "West Midlands",
-                "value": "39"
+                "value": "40"
             },
             {
                 "key": "London",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "South East",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "South West",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "Estonia",
@@ -4031,7 +4103,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "21"
+                "value": "22"
             },
             {
                 "key": "Oman",
@@ -4735,11 +4807,11 @@
             },
             {
                 "key": "Scotland",
-                "value": "22"
+                "value": "23"
             },
             {
                 "key": "Wales",
-                "value": "22"
+                "value": "23"
             }
         ],
         "other": 0
@@ -4748,7 +4820,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "95"
+                "value": "97"
             },
             {
                 "key": "Pipeline",
@@ -4765,7 +4837,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "103"
+                "value": "105"
             },
             {
                 "key": "Closed",

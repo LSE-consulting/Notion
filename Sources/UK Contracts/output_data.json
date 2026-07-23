@@ -1,5 +1,5 @@
 {
-    "hitCount": 105,
+    "hitCount": 104,
     "noticeList": [
         {
             "score": 1,
@@ -107,42 +107,6 @@
                 "regionText": "Any region",
                 "start": "2026-08-31T00:00:00+01:00",
                 "end": "2028-08-30T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "a1c8573a-c3d2-4f30-b828-a3c3ed634a1f",
-                "parentId": null,
-                "noticeIdentifier": "RA359142",
-                "title": "RA359142 - Provision of Legal Services",
-                "description": "Please find the request for a quote and terms and conditions attached.\r\n1. Agree to the terms and conditions and send your acceptance by email to Caitlyn Murphy caitlyn.murphy@wales.nhs.uk\r\n2. Submit your quote on Multiquote with a clear method statement and proforma invoice as an attachment.\r\n \r\nNo quotes through email are accepted - To access this competition: login to https://suppliers.multiquote.com and view the opportunity RA359142. Not registered on MultiQuote - visit https://suppliers.multiquote.com then register and quote RA359142 as the reason for registration. Any queries please contact MultiQuote on 0151 482 9230.",
-                "cpvDescription": "Business services: law, marketing, consulting, recruitment, printing and security",
-                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security",
-                "publishedDate": "2026-07-08T13:53:04+01:00",
-                "deadlineDate": "2026-07-23T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "CF15 7QZ",
-                "coordinates": "51.542365,-3.287235",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-08T13:53:04+01:00",
-                "organisationName": "NHS Wales Shared Services Partnership (NWSSP)",
-                "sector": "",
-                "cpvCodes": "79000000",
-                "cpvCodesExtended": "79000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-07-24T12:00:00+01:00",
-                "end": "2026-07-24T12:00:00+01:00"
             }
         },
         {
@@ -1300,6 +1264,42 @@
         {
             "score": 1,
             "item": {
+                "id": "ac973032-8cce-48f3-a07c-6eba45f7f624",
+                "parentId": null,
+                "noticeIdentifier": "EDPACT_43",
+                "title": "Accelerating high-voltage direct current (HVDC) development in Vietnam",
+                "description": "The UK Government&#039;s Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting quotations from qualified suppliers or consortia to provide technical assistance to Electricity of Vietnam (EVN) and the National Power Transmission Corporation (EVNNPT) to strengthen institutional, technical, and regulatory capacity for the development and deployment of High Voltage Direct Current (HVDC) transmission infrastructure in Vietnam.\r\n\r\nVietnam&#039;s rapidly growing power system faces increasing challenges associated with the uneven geographical distribution of generation resources and demand centres. As renewable energy deployment accelerates, particularly offshore wind and large-scale solar power, the national grid is experiencing growing transmission constraints, power losses, and risks to system stability. Limited land availability for new transmission corridors has highlighted the importance of modern transmission technologies to support the country&#039;s energy transition.\r\n\r\nThe Revised National Power Development Plan (PDP8) identifies HVDC infrastructure as a strategic priority for strengthening transmission capacity, improving grid flexibility and reliability, reducing electrical losses, and enabling higher penetration of renewable energy. The plan includes the development of multiple HVDC transmission corridors, converter stations, and associated infrastructure from 2031 onwards.\r\n\r\nThrough this assignment, UK PACT will support EVN and EVNNPT to assess the technical, economic, institutional, and regulatory requirements for HVDC deployment in Vietnam. The selected supplier will review the existing policy and regulatory framework, evaluate the feasibility of planned HVDC investments, assess suitable technology options, and develop practical tools and guidance documents to support investment decision-making.\r\n\r\nThe supplier will also undertake stakeholder mapping, assess capacity gaps within key institutions, and provide targeted technical assistance and training to strengthen national expertise in HVDC planning, modelling, investment appraisal, and system operation.\r\nIn addition, the assignment will generate evidence and recommendations to support implementation of PDP8, contribute to the objectives of Vietnam&#039;s Just Energy Transition Partnership (JETP), and enhance readiness for future investment in modern transmission infrastructure.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice and submit their applications to: expertdeployments@ukpact.co.uk",
+                "cpvDescription": "Electricity, heating, solar and nuclear energy and Energy and related services and Environmental services",
+                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2026-07-23T10:21:11+01:00",
+                "deadlineDate": "2026-08-17T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 292400,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-23T10:21:11+01:00",
+                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
+                "sector": null,
+                "cpvCodes": "09300000 71314000 90700000",
+                "cpvCodesExtended": "09000000 71000000 71300000 71310000 90000000",
+                "region": "Vietnam",
+                "regionText": "Vietnam",
+                "start": "2026-09-21T00:00:00+01:00",
+                "end": "2027-02-28T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "8c6bd6b6-2bb7-4f16-bea0-a0d9d61b0bd9",
                 "parentId": null,
                 "noticeIdentifier": "Tree Equity & Urban Resilience (TEUR) project",
@@ -1876,6 +1876,42 @@
         {
             "score": 1,
             "item": {
+                "id": "f6c06f22-8ec1-4500-8ad2-74e7c9dcf2bd",
+                "parentId": null,
+                "noticeIdentifier": "2026FES",
+                "title": "Expression of Interest: Future Employment Support",
+                "description": "Reed in Partnership intends to participate in the Department for Work and Pensions (DWP) Future Employment Support (FES) opportunity and is inviting organisations to express an interest in delivering the service with us. Together with our partners, we will deliver high-quality employability support that transforms people&#039;s lives and their communities. \r\n\r\nThe programme will provide personalised employment support to out-of-work Universal Credit claimants, helping people overcome barriers to work and achieve sustained employment. This may include skills development, work experience, health-related employment support, self-employment guidance and employer engagement activities tailored to local labour market needs. Referrals to the programme will be made via JCPs. \r\n\r\nWe encourage applications from organisations across the public, private and VCSE sectors, including SMEs. We are particularly keen to hear from organisations who can demonstrate proven experience in: \r\n\r\n- Supporting individuals into sustained employment \r\n- Delivering personalised interventions that improve employment outcomes \r\n- Employer engagement and workforce development \r\n- Supporting people with health conditions and complex barriers \r\n- Delivering services informed by local labour market needs \r\n- Innovative, proven services to support people to secure and sustain work \r\n\r\nHow to Respond\r\nTo support organisations of different sizes and specialisms, we are running two EOI routes: \r\n\r\n1. EOI A: For end-to-end delivery providers \r\nFor organisations with a proven track record of delivering high-performing employment services and the capacity to deliver across part or all of one or more CPAs please see here: https://forms.office.com/e/cvax9sttdA\r\n\r\n2. EOI B: Specialist and Innovation Partners  \r\nFor organisations offering specialist expertise or innovative solutions that complement end-to-end provision, please see here: https://forms.office.com/e/e1tbAA1rDz\r\n\r\nTo support applications, please find a full breakdown of the programme and eligible participant cohorts attached to this notice.\r\n\r\nShould you have any questions, please contact partner.network@reed.com. For more information on how we score our EOIs and work with partners please visit our website: https://reedinpartnership.co.uk/partners/.\r\n\r\nPlease note - This EOI does not constitute an offer to work with your organisation but is the first stage in our selection process. Following the initial EOI stage, selected organisations may be invited to participate in market engagement events, webinars, one-to-one discussions, further information requests, due diligence activities and commercial negotiations.",
+                "cpvDescription": "General public services and Government services and Job search services and Education and training services",
+                "cpvDescriptionExpanded": "Administration, defence and social security services, Administration services, Supporting services for the government, Business services: law, marketing, consulting, recruitment, printing and security, Recruitment services, Placement services of personnel, Education and training services",
+                "publishedDate": "2026-07-22T14:55:39+01:00",
+                "deadlineDate": "2026-08-28T23:59:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-22T14:55:39+01:00",
+                "organisationName": "REED IN PARTNERSHIP LIMITED",
+                "sector": null,
+                "cpvCodes": "75110000 75131000 79611000 80000000",
+                "cpvCodesExtended": "75000000 75100000 75130000 79000000 79600000 79610000 80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "2028-02-07T00:00:00Z",
+                "end": "2032-02-29T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "15f6dcb9-118d-4113-8880-210096240a0d",
                 "parentId": null,
                 "noticeIdentifier": "NTC F4",
@@ -2087,42 +2123,6 @@
                 "regionText": "Any region",
                 "start": "2026-10-01T00:00:00+01:00",
                 "end": "2027-07-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "fdcb19e6-7c2b-4022-827a-fa5c6bfbbe00",
-                "parentId": null,
-                "noticeIdentifier": "A5043_LCDI_Accelerator",
-                "title": "Innovation and Technology Fund (ITF) _ Local Accelerator Delivery Partner / Acceleration Manager",
-                "description": "Provision of Local Accelerator Delivery Services for the Innovation and Technology Fund (ITF), Low Carbon Development Initiative (LCDI) Phase 2\r\nOxford Policy Management Limited (OPML), with support from the Foreign, Commonwealth and Development Office (FCDO) and Kementerian PPN/BAPPENAS, invites potential suppliers to submit a proposal to act as the local Accelerator Delivery Partner for the ITF Accelerator Programme, providing a locally-based Acceleration Manager and associated technical assistance to grantees funded under the ITF.\r\n\r\nThe overall objective of this assignment is to strengthen the commercial, operational and institutional readiness of ITF grantees through tailored, high-quality technical assistance, delivered fairly and consistently across a diverse cohort.\r\n\r\nThe assignment covers all eight ITF grantees selected under Batch 1 and Batch 2 and includes delivery of a shared in-country bootcamp, individual needs assessments and site visits, and tailored one-to-one accelerator support through to March 2027. \r\n\r\nIt is the responsibility of the tenderer to ensure that proposals are received by 22nd July at 23:00 Indonesia Western Time. Proposals received after this time will not be considered.\r\n\r\nAny questions or requests for clarification  and the Technical and financial proposals should be sent by email to a5043procurement@opml.co.uk within the timescales set out in Section 14. \r\nThe financial proposals should be send in a separate email in excel file with password protected.",
-                "cpvDescription": "Research and development services and related consultancy services",
-                "cpvDescriptionExpanded": "Research and development services and related consultancy services",
-                "publishedDate": "2026-07-14T04:09:30+01:00",
-                "deadlineDate": "2026-07-22T17:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 100000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-07-14T04:09:30+01:00",
-                "organisationName": "OXFORD POLICY MANAGEMENT LIMITED",
-                "sector": null,
-                "cpvCodes": "73000000",
-                "cpvCodesExtended": "73000000",
-                "region": "Indonesia",
-                "regionText": "Indonesia",
-                "start": "2026-09-01T00:00:00+01:00",
-                "end": "2027-03-25T00:00:00Z"
             }
         },
         {
@@ -2447,42 +2447,6 @@
                 "regionText": "Any region",
                 "start": "2026-08-21T00:00:00+01:00",
                 "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "f25a4d63-859a-46f1-bab6-44b818cc9b5b",
-                "parentId": null,
-                "noticeIdentifier": "e3be8b8c-bb8a-41f1-b4c0-a5a7da37a426",
-                "title": "CA18126 - RFQ 2026/16 - NMANDD PEACEPLUS",
-                "description": "Competent consultancy companies are hereby invited to tender to design, develop and deliver a structured programme celebrating the history and industrial heritage of Bessbrook. The programme will include a series of expert-led talks and workshops promoting understanding of shared heritage across communities and encouraging reflection on how industrial heritage shapes identity.  Participants will take part in a guided historical walking tour of Bessbrook, a relevant study visit and a practical weaving workshop\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18126.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18126 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services",
-                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services",
-                "publishedDate": "2026-06-25T11:24:19+01:00",
-                "deadlineDate": "2026-07-23T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-06-25T14:01:50+01:00",
-                "organisationName": "ADB (UK) LIMITED",
-                "sector": null,
-                "cpvCodes": "92000000 80000000 98000000",
-                "cpvCodesExtended": "92000000 80000000 98000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-08-03T00:00:00+01:00",
-                "end": "2026-11-30T00:00:00Z"
             }
         },
         {
@@ -3787,7 +3751,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "43"
+                "value": "41"
             },
             {
                 "key": "Australia",
@@ -3871,11 +3835,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "East of England",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Egypt",
@@ -3887,31 +3851,31 @@
             },
             {
                 "key": "North East",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "North West",
-                "value": "33"
+                "value": "34"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "40"
+                "value": "41"
             },
             {
                 "key": "West Midlands",
-                "value": "40"
+                "value": "41"
             },
             {
                 "key": "London",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "South East",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "South West",
-                "value": "33"
+                "value": "34"
             },
             {
                 "key": "Estonia",
@@ -4067,10 +4031,6 @@
             },
             {
                 "key": "India",
-                "value": "2"
-            },
-            {
-                "key": "Indonesia",
                 "value": "2"
             },
             {
@@ -4383,6 +4343,10 @@
             },
             {
                 "key": "Honduras",
+                "value": "1"
+            },
+            {
+                "key": "Indonesia",
                 "value": "1"
             },
             {
@@ -4783,7 +4747,7 @@
             },
             {
                 "key": "Vietnam",
-                "value": "2"
+                "value": "3"
             },
             {
                 "key": "Wallis and Futuna",
@@ -4820,7 +4784,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "97"
+                "value": "96"
             },
             {
                 "key": "Pipeline",
@@ -4837,7 +4801,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "105"
+                "value": "104"
             },
             {
                 "key": "Closed",

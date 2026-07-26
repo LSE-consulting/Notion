@@ -36,6 +36,9 @@ jobs:
       - name: Execute UNGM Notion Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Sources/UNGM/ungm_notion_upload.ipynb" --output "ungm_notion_upload.ipynb"
+      - name: Execute World Bank Notion Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute "Sources/World Bank/worldbank_notion_upload.ipynb" --output "worldbank_notion_upload.ipynb"
       - name: Execute Expired Contract Update Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Shared/Expired_Contracts_Update.ipynb" --output "Expired_Contracts_Update.ipynb"    

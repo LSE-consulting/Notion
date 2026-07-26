@@ -1,4 +1,4 @@
-# Notion Upload — What This Does
+# Notion Upload 
 
 This repo runs an automated pipeline that checks a set of public contract/tender
 websites every weekday morning, picks out the ones relevant to us, and adds
@@ -8,7 +8,7 @@ that marks contracts as **Expired** once their closing date has passed.
 You shouldn't need to touch any code to understand what's going on — this
 doc explains it in plain English.
 
-## The websites it currently checks
+## Websites Scraped
 
 Each website lives in its own folder under `Sources/`, so it's easy to see at
 a glance what we're pulling from and to add more in future.
@@ -30,8 +30,6 @@ file that caches the raw data that script pulls before the notebook uploads
 it. The other five folders don't need this extra step; their notebooks fetch
 and upload in one go. Adding a new website later just means adding a new
 folder in whichever of these two shapes fits best.
-
-## The other piece: keeping Notion tidy
 
 | Folder | What it does |
 |---|---|

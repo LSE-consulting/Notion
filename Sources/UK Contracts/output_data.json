@@ -1,5 +1,5 @@
 {
-    "hitCount": 102,
+    "hitCount": 103,
     "noticeList": [
         {
             "score": 1,
@@ -400,6 +400,42 @@
         {
             "score": 1,
             "item": {
+                "id": "408fc65f-f0f5-4fbf-a235-d203e207e7c9",
+                "parentId": null,
+                "noticeIdentifier": "Future Employment Support Programme",
+                "title": "Future Employment Support Programme",
+                "description": "AKG, a leading provider of employment, skills, health and behaviour change programmes in the UK, is preparing to bid as a prime provider in the DWP&#039;s forthcoming commissioning of the Future Employment Support programme (a working title).\r\n\r\nThe range of support the programme will provide includes:\r\n\u2022\tEmployability support, such as skills training or work experience opportunities for those with a lack of or no recent work experience.\r\n\u2022\tMatching Participants with employers through job trials, jobs fairs and job brokering.\r\n\u2022\tIntensive and repeated support with drafting of CVs, job applications and interviewing skills.\r\n\u2022\tSupport in managing health conditions in the workplace (e.g. mental health; musculoskeletal/physical injury; chronic/systemic health conditions).\r\n\u2022\tBarrier-based support for complex issues\u202f(e.g. housing, transport, childcare).\r\n\u2022\tSpecialist support\u202f(e.g. ESOL, addiction problems and neurodiversity).\r\n\r\nParticipant groups will include mandatory participation for:\r\n\u2022\tLong term unemployed 25+ access at 12 months on Universal Credit\r\n\u2022\tYoung People 18-24 access at 6 months on Universal Credit\r\nVoluntary participation at any point in their Universal Credit claim for:\r\n\u2022\tLone Parents and lead carers\r\n\u2022\tDisadvantaged Groups\r\n\r\nDisadvantaged groups include:\r\nEx-offenders, including person serving community sentence; ex-carers; those experienced, experiencing or at risk of homelessness; veterans; those with current or previous drug/alcohol dependency; care leavers; refugees; victims of domestic abuse; young people involved in or at risk of serious violence; victims of modern slavery\r\n\r\nAlthough subject to further confirmation based on ongoing market engagement events being held by DWP over the coming months, the indicative Contract Package Areas that AKG is currently considering include:\r\n\u2022\tCPA 1: Central and West London\r\n\u2022\tCPA 2: South and Local London\r\n\u2022\tCPA 4: West Midlands, Staffordshire, Worcestershire, Herefordshire, Shropshire and Warwickshire\r\n\u2022\tCPA 6: York and North Yorkshire, Hull and East Yorkshire and Greater Lincolnshire\r\n\u2022\tCPA 8: East Midlands (EMCCA), Northamptonshire, Rutland, Leicestershire\r\n\u2022\tCPA 11: Berkshire, Buckinghamshire and Oxfordshire, Kent, Surrey and Sussex and Brighton; and\r\n\u2022\tCPA12: Essex, Norfolk and Suffolk, Hertfordshire, Cambridgeshire and Peterborough, Bedfordshire\r\n\r\nWe would like to engage providers with diverse specialisms, expertise and experience to support the delivery of a high quality person-centred programme which will enable individuals to access sustainable employment and thrive in work. \r\n\r\nIf you are interested in this opportunity and would like AKG to consider your organisation as a potential delivery partner for this service, please complete our Expression of Interest which can be found here. https://akguk.co.uk/partnership-portal/  the deadline for responding to the EOI is 28th August 2026 @ 23:00. If you have any questions about completing the EOI, please contact BD@akguk.co.uk",
+                "cpvDescription": "General public services and Government services and Sickness benefits and Unemployment compensation benefits and Job search services and E-learning services and Specialist training services and Training seminars and Computer-user familiarisation and training services and Health training services and Services provided by medical personnel and Welfare services not delivered through residential institutions and Rehabilitation services and Vocational rehabilitation services",
+                "cpvDescriptionExpanded": "Administration, defence and social security services, Administration services, Supporting services for the government, Compulsory social security services, Benefit services, Business services: law, marketing, consulting, recruitment, printing and security, Recruitment services, Placement services of personnel, Education and training services, Adult and other education services, Training services, Training facilities, Vocational training services, Health and first-aid training services, Health and social work services, Health services, Miscellaneous health services, Social work and related services, Social work services, Social work services without accommodation",
+                "publishedDate": "2026-07-28T10:27:35+01:00",
+                "deadlineDate": "2026-08-28T23:59:59+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "PreProcurement",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-28T10:27:35+01:00",
+                "organisationName": "AKG (UK) Employment Limited",
+                "sector": null,
+                "cpvCodes": "75110000 75131000 75311000 75314000 79611000 80420000 80510000 80522000 80533000 80561000 85141000 85312400 85312500 85312510",
+                "cpvCodesExtended": "75000000 75100000 75130000 75300000 75310000 79000000 79600000 79610000 80000000 80400000 80500000 80520000 80530000 80560000 85000000 85100000 85140000 85300000 85310000 85312000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "",
+                "end": ""
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "f83f7a9d-fc71-4d1f-b354-0002dfc7d9c5",
                 "parentId": null,
                 "noticeIdentifier": "OP-008651",
@@ -431,6 +467,42 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
                 "start": "",
                 "end": ""
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d7d25e48-faf9-4d7f-b4df-e6e1660559bd",
+                "parentId": null,
+                "noticeIdentifier": "RM6301.",
+                "title": "Open Banking (Data, Digital Payments &amp; Confirmation of Payee Services) DPS",
+                "description": "Due to the ongoing growth and development of the Open Banking market, Crown Commercial Service (CCS), as the Authority, intends to put in place an agreement for Open Banking Services for use by Central Government and the Wider Public Sector.\r\n\r\nThe Agreement will be a Dynamic Purchasing System (DPS). This will be called RM6301: Open Banking DPS (Data, Digital Payments and Confirmation of Payee Services).\r\n\r\nThis agreement will provide a vehicle for Central Government and the Public Sector to source Open Banking Services, including but not limited to:\r\nDigital Payment Services\r\nAccount Information Services\r\nConfirmation of Payee (CoP) Services\r\n\r\nThis will be the first agreement for Open Banking Services CCS has developed. We intend to launch for supplier onboarding from late July with the DPS anticipated to go live for use in the Autumn.\r\n\r\nThe agreement is expected to run for 8 years and suppliers will have the opportunity to onboard throughout this duration.",
+                "cpvDescription": "Financial and insurance services",
+                "cpvDescriptionExpanded": "Financial and insurance services",
+                "publishedDate": "2023-12-08T12:39:18Z",
+                "deadlineDate": "2032-01-07T23:59:00Z",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 800000000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-28T12:04:34+01:00",
+                "organisationName": "GOVERNMENT COMMERCIAL AGENCY",
+                "sector": null,
+                "cpvCodes": "66000000",
+                "cpvCodesExtended": "66000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2032-01-08T00:00:00Z",
+                "end": "2032-01-09T00:00:00Z"
             }
         },
         {
@@ -575,42 +647,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
                 "start": "2029-02-24T00:00:00Z",
                 "end": "2029-02-25T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "d7d25e48-faf9-4d7f-b4df-e6e1660559bd",
-                "parentId": null,
-                "noticeIdentifier": "RM6301.",
-                "title": "Open Banking (Data, Digital Payments &amp; Confirmation of Payee Services) DPS",
-                "description": "Due to the ongoing growth and development of the Open Banking market, Crown Commercial Service (CCS), as the Authority, intends to put in place an agreement for Open Banking Services for use by Central Government and the Wider Public Sector.\r\n\r\nThe Agreement will be a Dynamic Purchasing System (DPS). This will be called RM6301: Open Banking DPS (Data, Digital Payments and Confirmation of Payee Services).\r\n\r\nThis agreement will provide a vehicle for Central Government and the Public Sector to source Open Banking Services, including but not limited to:\r\nDigital Payment Services\r\nAccount Information Services\r\nConfirmation of Payee (CoP) Services\r\n\r\nThis will be the first agreement for Open Banking Services CCS has developed. We intend to launch for supplier onboarding from late July with the DPS anticipated to go live for use in the Autumn.\r\n\r\nThe agreement is expected to run for 8 years and suppliers will have the opportunity to onboard throughout this duration.",
-                "cpvDescription": "Financial and insurance services",
-                "cpvDescriptionExpanded": "Financial and insurance services",
-                "publishedDate": "2023-12-08T12:39:18Z",
-                "deadlineDate": "2032-01-07T23:59:00Z",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 800000000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2025-04-07T15:12:35+01:00",
-                "organisationName": "Crown Commercial Service",
-                "sector": null,
-                "cpvCodes": "66000000",
-                "cpvCodesExtended": "66000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "start": "2032-01-08T00:00:00Z",
-                "end": "2032-01-09T00:00:00Z"
             }
         },
         {
@@ -1444,42 +1480,6 @@
         {
             "score": 1,
             "item": {
-                "id": "70f6b5d2-6e9b-48e4-91c9-6ba059bdf92d",
-                "parentId": null,
-                "noticeIdentifier": "SBC - 020416",
-                "title": "OJEU Notice For Dynamic Purchasing System (DPS) - Home to School, Special Educational Needs and Vulnerable Adult Passenger Transport Services version 2",
-                "description": "Call for competition for the provision of Special Education Needs Transport Services (SEN) for Slough Borough Council\r\n      \r\n      Dynamic Purchasing System (DPS) for Home to School, Special Educational Needs and Vulnerable Adult Passenger Transport Services\r\n      \r\n      Slough Borough Council is seeking to commission a Special Education Needs Transport Services through a Dynamic Purchasing System procurement route.\r\n      \r\n      We are seeking providers who can demonstrate they are able to provide SEN services as outlined in the service specification. They must also be able to meet the required expectations as required of them in the service specification, within the available funding.\r\n      \r\n      The authority will qualify providers using the standard supplier selection questionnaires as stated in PCR 2015 appended as Document No. 4. Only those providers deemed to have answered correctly to the questions listed will have their technical responses evaluated.\r\n      \r\n      The provider that has been technically qualified will be put on the DPS for a future call for mini competition exercise.\r\n      \r\n      If you are interested in providing this service please submit proposals via Intend https://in-tendhost.co.uk/sesharedservices/aspx/Home",
-                "cpvDescription": "Motor vehicles for the transport of fewer than 10 persons and Non-scheduled passenger transport and Special-purpose road passenger-transport services and Various school services and Motor vehicles for the transport of 10 or more persons and Transport services (excl. Waste transport)",
-                "cpvDescriptionExpanded": "Transport equipment and auxiliary products to transportation, Motor vehicles, Passenger cars, Other passenger cars, Transport services (excl. Waste transport), Road transport services, Education and training services, Adult and other education services",
-                "publishedDate": "2018-09-07T15:08:42+01:00",
-                "deadlineDate": "2026-07-26T18:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "SL1 3UF",
-                "coordinates": "51.536391,-0.6262",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2023-06-15T15:05:50+01:00",
-                "organisationName": "Slough Borough Council",
-                "sector": "",
-                "cpvCodes": "34115200 60140000 60130000 80410000 34120000 60000000",
-                "cpvCodesExtended": "34000000 34100000 34110000 34115000 60000000 60100000 80000000 80400000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-07-28T01:00:00+01:00",
-                "end": "2026-07-29T01:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "f1488362-0035-4320-9d7d-ca54b20da281",
                 "parentId": null,
                 "noticeIdentifier": "tender_459958/1404422",
@@ -1799,6 +1799,114 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "a24be143-484e-4157-9ced-48af30109a0a",
+                "parentId": null,
+                "noticeIdentifier": "BIP1053527067",
+                "title": "OPENING ADULT LEARNING SERVICE PSEUDO-FRAMEWORK FOR DELIVERY PARTNERS 2023-2028",
+                "description": "Kensington and Chelsea&#039;s Adult Learning Service is seeking organisations who deliver adult and family learning to join the Pseudo-Framework (5-year framework) for the remaining period until 31 July 2028. \r\n      \r\n      The Service is keen to engage with a wide range of providers who are able to deliver adult and family learning opportunities at a variety of locations in the borough, meeting the broad range of needs and residents across this diverse borough. \r\n      \r\n      Once accepted onto the framework providers will be invited to apply for funding to deliver adult and family learning courses in borough through call-offs against the curriculum specification.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2026-07-28T16:00:04+01:00",
+                "deadlineDate": "2026-08-27T10:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 294000,
+                "valueHigh": 0,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-07-28T16:00:04+01:00",
+                "organisationName": "THE ROYAL BOROUGH OF KENSINGTON  AND CHELSEA",
+                "sector": "",
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "London",
+                "regionText": "London",
+                "start": "2026-09-30T00:00:00+01:00",
+                "end": "2028-07-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "34b69685-d215-4c87-b3be-f940e6738b3b",
+                "parentId": null,
+                "noticeIdentifier": "a6c2d12c-7206-4716-9ae7-17037e5945d6",
+                "title": "CA18286 - RFQ2026/26 - NMANDD PEACEPLUS 3.5 Farmers Festival",
+                "description": "Competent and creative suppliers are hereby invited to tender for the design, development, and delivery of an engaging festival programme for the upcoming Farmers Festival in the Crotlieve DEA. \r\nThis initiative will deliver a celebratory, educational, and participant-led project that promotes greater understanding, appreciation, and respect for cultural identities, traditions, and rural heritage within the local community. \r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18286.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18286 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Education and training services and Recreational, cultural and sporting services and Other community, social and personal services",
+                "cpvDescriptionExpanded": "Education and training services, Recreational, cultural and sporting services, Other community, social and personal services",
+                "publishedDate": "2026-07-28T11:36:20+01:00",
+                "deadlineDate": "2026-08-25T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 19545,
+                "valueHigh": 19545,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-07-28T11:36:20+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "80000000 92000000 98000000",
+                "cpvCodesExtended": "80000000 92000000 98000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-09-15T00:00:00+01:00",
+                "end": "2026-12-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "c137566d-bebf-48af-89e0-fade82e1d10c",
+                "parentId": null,
+                "noticeIdentifier": "ESOP1000123",
+                "title": "National Trust - NI- Independent Quality Assurance Process for Lough Neagh Roadmap to Recovery",
+                "description": "The Trust, on behalf of the Forever Lough Neagh Collaborators, is seeking proposals from suitably experienced facilitators, organisations, or partnerships to design and deliver an independent Quality Assurance (QA) process to support the development of Lough Neagh: A Roadmap to Recovery.\r\n\r\nRunning alongside a multidisciplinary consultancy commissioned to develop the Roadmap, the QA process will provide robust scrutiny through structured peer review and public review panels. The successful contractor will establish and facilitate a framework to assess and challenge emerging recommendations, ensuring they are evidence-based, technically sound, inclusive, transparent, and informed by community perspectives.\r\n\r\nThe contract is expected to commence in September/October 2026 and run for 12 months, subject to funding availability. Tenderers should note that costs submitted must remain valid for up to six months should commencement be delayed to allow for fundraising.\r\n\r\nThis QA process is a key element in ensuring the integrity, credibility, and long-term legitimacy of the Roadmap to Recovery for Lough Neagh.\r\n\r\n14/08/26 - Clarification Window Closes\r\n28/08/26 - Return of RFP \r\n15/09/26 - Anticipated Contract Start Date \r\n\r\nThe tender is being conducted via the Proactis Plaza portal.\r\n\r\nhttp://www.proactisplaza.com/\r\n\r\nSearch for The National Trust in the opportunities section and follow the instructions",
+                "cpvDescription": "Development consultancy services and Business and management consultancy and related services",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Research and development consultancy services, Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-07-24T16:00:32+01:00",
+                "deadlineDate": "2026-08-28T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 50000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-07-24T16:00:32+01:00",
+                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
+                "sector": null,
+                "cpvCodes": "73220000 79400000",
+                "cpvCodesExtended": "73000000 73200000 79000000",
+                "region": "Northern Ireland",
+                "regionText": "Northern Ireland",
+                "start": "2026-09-15T00:00:00+01:00",
+                "end": "2027-09-15T00:00:00+01:00"
             }
         },
         {
@@ -2200,42 +2308,6 @@
         {
             "score": 1,
             "item": {
-                "id": "f2258fd3-f905-4718-aa61-b9332e22a733",
-                "parentId": null,
-                "noticeIdentifier": "UKPACT_ED41",
-                "title": "\u200b\u200bCarbon Market Opportunity Assessment\u200b",
-                "description": "The UK Government&#039;s Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting quotations from qualified suppliers or consortia to deliver an economy-wide assessment of carbon market opportunities and institutional capacity strengthening support in the Philippines.\r\n\r\nThe Philippines has committed to an ambitious Nationally Determined Contribution (NDC), targeting a 75% reduction and avoidance of greenhouse gas emissions by 2030. Achieving this target will require significant international support, strengthened institutional capacity, and the mobilisation of climate finance to accelerate mitigation action across priority sectors.\r\n\r\nCarbon markets are increasingly recognised as a potential mechanism to unlock climate finance and support cost-effective emissions reductions. As the Philippines advances implementation of its updated NDC, Nationally Determined Contribution Implementation Plan (NDCIP), and Long-Term Strategy (LTS), there is a timely opportunity to assess how carbon markets, including potential participation under Article 6 of the Paris Agreement, can contribute to national climate objectives while maintaining environmental integrity and alignment with national priorities.\r\n\r\nThe Climate Change Commission (CCC) of the Philippines is seeking a qualified supplier to support the next phase of this UK PACT partnership. Building on previous support provided through UK PACT, including the development of the Philippine Emissions Pathway Calculator (PEPC), this assignment will strengthen the evidence base and institutional capacity required to guide the development of carbon markets in the Philippines.\r\n\r\nThe selected supplier will undertake an economy-wide assessment of carbon market opportunities, including indicative mitigation and revenue potential across priority sectors, sector prioritisation, and the development of a preliminary pipeline of carbon market opportunities. In parallel, the supplier will provide targeted technical assistance and capacity-building support to strengthen the CCC&#039;s ability to oversee, coordinate, and guide carbon market development in collaboration with relevant government agencies and stakeholders.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice and submit their applications to: philippines@ukpact.co.uk",
-                "cpvDescription": "Agricultural, farming, fishing, forestry and related products and Petroleum products, fuel, electricity and other sources of energy and Financial and insurance services and Research and development services and related consultancy services",
-                "cpvDescriptionExpanded": "Agricultural, farming, fishing, forestry and related products, Petroleum products, fuel, electricity and other sources of energy, Financial and insurance services, Research and development services and related consultancy services",
-                "publishedDate": "2026-07-03T09:57:44+01:00",
-                "deadlineDate": "2026-07-27T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 125000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-07-06T13:16:16+01:00",
-                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
-                "sector": null,
-                "cpvCodes": "03000000 09000000 66000000 73000000",
-                "cpvCodesExtended": "03000000 09000000 66000000 73000000",
-                "region": "Philippines",
-                "regionText": "Philippines",
-                "start": "2026-09-01T00:00:00+01:00",
-                "end": "2027-03-15T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "fde84a74-d562-43ff-b02d-ed54b09c892e",
                 "parentId": null,
                 "noticeIdentifier": "5f3d012d-7554-498e-bb9c-f0590d0d23f4",
@@ -2375,42 +2447,6 @@
                 "regionText": "Thailand",
                 "start": "2026-08-31T00:00:00+01:00",
                 "end": "2027-02-28T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "48efe08b-58e2-41a3-ab4e-10fff0d58c43",
-                "parentId": "14b18b36-a819-4887-aaa9-1236df1670d9",
-                "noticeIdentifier": "CF-0009300DQH00000CdCC52AN",
-                "title": "UKRI-6097 MRC HQ Fellowships Evaluation Services",
-                "description": "UKRI-MRC, are seeking a supplier to carry out an external evaluation to provide an independent and expert assessment of the RoI/SRoI of investment Fellowships. The evaluation findings will be used by MRC to demonstrate to the public the value Fellowships bring to our economy and society; inform the strategic programme offer and future investments in Fellowships; and support MRC and wider UKRI efforts to effectively and effectively track the benefits and value of investment in Fellowships over time. \r\n\r\nHow to Access Opportunity\r\nThis opportunity is being sourced via the Crown Commercial Service - RM6126 - Research and Insights Dynamic Purchasing System (DPS).  Suppliers registered on this DPS can access the opportunity on the UKRI Atamis e-sourcing portal until 27th July 2026. To express interest, you must be registered on UKRI&#039;s dedicated Atamis portal. If not already registered, please do so via the following link: https://ukri2.my.site.com/login\r\nOnce registered, please send an email to MRCProcurement@ukri.org  with your interest and Atamis registered email to be invited and you will granted access to the tender documents. Access to the opportunity will be granted during working hours, after which you&#039;ll be able to view the full details. After registration, all communications including clarifications and submissions must be conducted within the Atamis portal. UKRI will not respond to queries sent outside the portal or beyond the specified deadlines in the Invitation to Tender Pack. \r\n\r\nPlease note: \r\nDo not contact MRCProcurement if you are not on the RM6126 - Research and Insights Dynamic Purchasing System (DPS) and you will not be invited if you are not on the DPS. In addition, only suppliers registered under the RM6126 DPS sub-categories below will be eligible to submit bids. The sub-categories are: \r\nGrants and grant funding, Econometric analysis, financial analysis (incl. cost-benefit analysis, return on investment analysis), Impact assessment, Mixed method (qualitative and quantitative), Impact evaluation, Theory-based impact evaluation (incl. Theories of Change (ToC) and Logic Modelling), Value-for-money evaluation. \r\n\r\nFor additional details on this DPS, please visit \r\nhttps://www.crowncommercial.gov.uk/agreements/RM6126. Interested bidders are strongly encouraged to register as a DPS supplier using the provided link and complete the DPS Registration. It is essential to note that this DPS is managed by CCS and not UKRI. Therefore, for any technical assistance, please direct queries to the CCS customer services team, available Monday to Friday, 9 am to 5 pm, via email at info@crowncommercial.gov.uk or by telephone at 0345 410 2222. To register your interest as a supplier for this DPS, please use the following link: https://supplierregistration.cabinetoffice.gov.uk/dps Please note that the supplier registration process for DPS RM6126 takes 15 working days.",
-                "cpvDescription": "Economic impact assessment",
-                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Market and economic research; polling and statistics, Market research services, Survey services",
-                "publishedDate": "2026-06-22T13:41:48+01:00",
-                "deadlineDate": "2026-07-27T15:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 90000,
-                "valueHigh": 90000,
-                "postcode": "SN2 1FL",
-                "coordinates": "51.576361,-1.77433",
-                "isSubNotice": true,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-06-22T13:42:24+01:00",
-                "organisationName": "UK Research and Innovation",
-                "sector": "",
-                "cpvCodes": "79311410",
-                "cpvCodesExtended": "79000000 79300000 79310000 79311000",
-                "region": "South West",
-                "regionText": "South West",
-                "start": "2026-10-01T00:00:00+01:00",
-                "end": "2027-03-31T00:00:00+01:00"
             }
         },
         {
@@ -3763,11 +3799,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "East of England",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Egypt",
@@ -3779,27 +3815,27 @@
             },
             {
                 "key": "North East",
-                "value": "32"
-            },
-            {
-                "key": "North West",
                 "value": "33"
             },
             {
+                "key": "North West",
+                "value": "34"
+            },
+            {
                 "key": "Yorkshire and The Humber",
-                "value": "40"
+                "value": "41"
             },
             {
                 "key": "West Midlands",
-                "value": "40"
+                "value": "41"
             },
             {
                 "key": "London",
-                "value": "35"
+                "value": "37"
             },
             {
                 "key": "South East",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "South West",
@@ -3991,14 +4027,10 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "22"
+                "value": "23"
             },
             {
                 "key": "Oman",
-                "value": "2"
-            },
-            {
-                "key": "Philippines",
                 "value": "2"
             },
             {
@@ -4470,6 +4502,10 @@
                 "value": "1"
             },
             {
+                "key": "Philippines",
+                "value": "1"
+            },
+            {
                 "key": "Puerto Rico",
                 "value": "1"
             },
@@ -4720,7 +4756,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "5"
+                "value": "6"
             }
         ],
         "other": 0
@@ -4729,7 +4765,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "102"
+                "value": "103"
             },
             {
                 "key": "Closed",

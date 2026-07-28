@@ -6,6 +6,8 @@ on:
 jobs:
   run-script-and-notebooks:
     runs-on: ubuntu-latest
+    env:
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4

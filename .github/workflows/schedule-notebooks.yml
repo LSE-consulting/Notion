@@ -18,7 +18,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests parsel notebook nbconvert python-dateutil beautifulsoup4
+          pip install pandas requests parsel notebook nbconvert python-dateutil beautifulsoup4 langid
       - name: Execute Python Script
         working-directory: Sources
         run: python "UK Contracts/api_filtered_contracts.py"
@@ -41,6 +41,9 @@ jobs:
       - name: Execute World Bank Notion Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Sources/World Bank/worldbank_notion_upload.ipynb" --output "worldbank_notion_upload.ipynb"
+      - name: Execute IDB Notion Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute "Sources/IDB/idb_notion_upload.ipynb" --output "idb_notion_upload.ipynb"
       - name: Execute Expired Contract Update Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Shared/Expired_Contracts_Update.ipynb" --output "Expired_Contracts_Update.ipynb"    

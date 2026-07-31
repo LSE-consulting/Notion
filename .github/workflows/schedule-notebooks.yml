@@ -44,6 +44,9 @@ jobs:
       - name: Execute IDB Notion Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Sources/IDB/idb_notion_upload.ipynb" --output "idb_notion_upload.ipynb"
+      - name: Execute Council of Europe Notion Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute "Sources/Council of Europe/coe_notion_upload.ipynb" --output "coe_notion_upload.ipynb"
       - name: Execute Expired Contract Update Notebook
         run: |
           jupyter nbconvert --to notebook --execute "Shared/Expired_Contracts_Update.ipynb" --output "Expired_Contracts_Update.ipynb"    

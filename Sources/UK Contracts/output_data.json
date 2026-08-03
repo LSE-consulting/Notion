@@ -1,5 +1,5 @@
 {
-    "hitCount": 98,
+    "hitCount": 97,
     "noticeList": [
         {
             "score": 1,
@@ -1660,6 +1660,42 @@
         {
             "score": 1,
             "item": {
+                "id": "67b781d1-0586-4c2b-ae9f-86c4926da9f4",
+                "parentId": null,
+                "noticeIdentifier": "Turing 2026/27",
+                "title": "Leicester College Call for Turing Scheme Partners 2026/27",
+                "description": "In June 2026, Leicester College secured both FE and HE Turing Scheme contracts for 2026/27. To enable selected 2026/27 student cohorts to benefit from overseas further education-based mobility placements, we are currently welcoming applications from experienced and reputable organisations to support us by organising, managing, and delivering these international mobility placements.\r\n\r\nLeicester College intends to contract to one or more providers within the contract period.\r\n\r\nThe anticipated annual value of the services is approximately &#xA3;25,000 to &#xA3;125,000 depending on your capacity, costs and our student volumes.\r\n\r\nTo be considered as a partner organisation we require, as a minimum:\r\n\r\n\uf0a7\tDemonstrable experience of supporting international mobility placements with UK further education students, including apprentices\r\n\uf0a7\tEvidence of working with disadvantaged, underrepresented, and SEND students, with tailored support approaches\r\n\uf0a7\tProvision of high-quality work placements with external employers that enable students to enhance transferable skills and improve educational and career prospects\r\n\uf0a7\tPlacements for 14 or 15 days (with a minimum of 10 work/study days), or at least 7 days for students with SEND\r\n\uf0a7\tPlacements scheduled between 1 October 2026 and 31 August 2027\r\n\uf0a7\tClear understanding of Turing Scheme funding categories and the DfE grant rates for chosen destinations\r\n\r\nLeicester College will consider destinations where partners have strong employer networks and can deliver value for money within DfE funding rates. \r\n\r\nDestinations will be assessed against:\r\n\r\n\uf0a7\tGovernment Foreign, Commonwealth and Development Office (FCDO) travel advice, with particular attention to any regions affected by ongoing political instability or conflict.\r\n\r\n\uf0a7\tCollege risk assessment protocols. For example, the recent Middle East conflict which could affect stopover plans and cause travel disruptions.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2026-08-03T11:44:49+01:00",
+                "deadlineDate": "2026-09-14T11:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 25000,
+                "valueHigh": 125000,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-03T11:44:49+01:00",
+                "organisationName": "Leicester College",
+                "sector": null,
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-10-01T00:00:00+01:00",
+                "end": "2027-08-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "40e05dc1-8f9a-43c4-80a5-3a7d35e68220",
                 "parentId": null,
                 "noticeIdentifier": "FEDCAP_FES_EOI",
@@ -3172,42 +3208,6 @@
         {
             "score": 1,
             "item": {
-                "id": "39b1f813-e944-403c-a5e8-01d027396f7a",
-                "parentId": null,
-                "noticeIdentifier": "20230921191432-104130",
-                "title": "Alternative Provision Dynamic Purchasing System - Sheffield",
-                "description": "Sheffield City Council is seeking Providers who deliver a form of Alternative Provision or other equivalent or similar form of off-site education service for children and young people. The value of this tender has been advertised in anticipation of changing the period of validity of the DPS in the future; at the time of advertising the estimate annual value of work delivered as Alternative Provision is approximately &#xA3;750,000 annually. This DPS is developed as a light touch regime project.",
-                "cpvDescription": "Primary education services and Secondary education services and Higher education services and Community action programme and Education and training services",
-                "cpvDescriptionExpanded": "Education and training services, Health and social work services, Social work and related services, Social services",
-                "publishedDate": "2023-09-21T19:14:37+01:00",
-                "deadlineDate": "2026-07-31T23:59:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 10000000,
-                "postcode": "",
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2023-09-21T19:14:37+01:00",
-                "organisationName": "Sheffield City Council",
-                "sector": "",
-                "cpvCodes": "80100000 80200000 80300000 85322000 80000000",
-                "cpvCodesExtended": "80000000 85000000 85300000 85320000",
-                "region": "Yorkshire and The Humber",
-                "regionText": "Yorkshire and The Humber",
-                "start": "2026-08-01T00:00:00+01:00",
-                "end": "2026-08-02T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "d0e31bdb-ae03-49cf-86b2-4af9e0b296ff",
                 "parentId": null,
                 "noticeIdentifier": "IT-336-3309-WCC 00003309",
@@ -3383,42 +3383,6 @@
                 "regionText": "West Midlands",
                 "start": "2026-09-01T01:00:00+01:00",
                 "end": "2026-09-02T01:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "6089c6ad-8298-48db-b554-62d800b2e0e8",
-                "parentId": null,
-                "noticeIdentifier": "ESC23218",
-                "title": "Consultancy Services Dynamic Purchasing System (DPS)",
-                "description": "Framework will aim to support ESC&#039;s mission to unleash innovation and open new markets to capture the clean growth opportunity.\r\n\r\nESC was set up to accelerate the transformation of the UK&#039;s energy system and ensure businesses and consumers capture the opportunities of clean growth.\r\n\r\nESC is an independent, not-for-profit centre of excellence that bridges the gap between industry, government, academia and research - with around 200 staff covering a variety of technical, commercial and policy expertise.\r\n\r\nESC takes a whole system view - from power, heat and transport to industry, infrastructure digitalisation and consumers - helping us identify and address innovation priorities and market barriers to decarbonise the energy system and deliver value to energy consumers.\r\n\r\nESC supports various organisations to develop, market test and scale the products, services and value chains required to get to Net Zero.\r\n\r\nIn the application pack you will find the details of how to apply to be an appointed supplier with the minimum criteria you must meet in order to be appointed.\r\n\r\nAll suppliers who meet the selection criteria will be appointed to the DPS and there is no limit on the number of suppliers who can be appointed. Suppliers can apply to join the DPS at any point during its lifetime. It is currently envisaged to run for at least 4 years and may well be extended providing it is still fit for purpose.\r\n\r\nESC operates from offices in Birmingham. Project Meetings may be required. Appointed Suppliers may be required to attend kick off meetings at ESC Office in Birmingham or any suitable location in the UK and/or via a Conference call using one of the conferencing services such as MS Teams, Skype or Global Meet whichever ESC is using at that time.\r\n\r\nLot Structure\r\nLot 1 - Business Strategy, Policy and Thought Leadership\r\nLot 2 - Energy System Expertise\r\nLot 3 - Modelling and Support\r\nLot 4 - Project Support &amp; Ancillary Services\r\nLot 5 - Multi-Disciplinary Consultancy Services\r\n\r\nAll Suppliers who are successfully appointed to the DPS will be automatically added to Lot 5 - Multi-Disciplinary Services. This Lot will be used where ESC has a requirement that is not specifically suited to any other Lots detailed in the Scope document. \r\n\r\nYou can if you wish to, apply solely for Lot 5 if you do not want to apply to any other Lot. \r\n\r\nTo receive the application pack for this DPS, you must email Procurement@es.catapult.org.uk",
-                "cpvDescription": "IT services: consulting, software development, Internet and support and Research and development services and related consultancy services and Business services: law, marketing, consulting, recruitment, printing and security",
-                "cpvDescriptionExpanded": "IT services: consulting, software development, Internet and support, Research and development services and related consultancy services, Business services: law, marketing, consulting, recruitment, printing and security",
-                "publishedDate": "2022-07-20T10:19:30+01:00",
-                "deadlineDate": "2026-07-31T23:59:59+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "PreProcurement",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2022-07-20T10:19:30+01:00",
-                "organisationName": "ENERGY SYSTEMS CATAPULT LIMITED",
-                "sector": null,
-                "cpvCodes": "72000000 73000000 79000000",
-                "cpvCodesExtended": "72000000 73000000 79000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "start": "",
-                "end": ""
             }
         },
         {
@@ -3643,7 +3607,7 @@
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "42"
+                "value": "41"
             },
             {
                 "key": "West Midlands",
@@ -4576,7 +4540,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "7"
+                "value": "6"
             }
         ],
         "other": 0
@@ -4585,7 +4549,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "98"
+                "value": "97"
             },
             {
                 "key": "Closed",

@@ -1,5 +1,5 @@
 {
-    "hitCount": 95,
+    "hitCount": 94,
     "noticeList": [
         {
             "score": 1,
@@ -1120,42 +1120,6 @@
         {
             "score": 1,
             "item": {
-                "id": "8c6bd6b6-2bb7-4f16-bea0-a0d9d61b0bd9",
-                "parentId": null,
-                "noticeIdentifier": "Tree Equity & Urban Resilience (TEUR) project",
-                "title": "Invitation to Tender: Tree Equity &amp; Urban Resilience Project",
-                "description": "Trees for Cities is delighted to support the Mayor of London's new London Tree Equity and Urban Resilience (TE&UR) project, a scheme initiated by the Greater London Authority (GLA) to improve access to trees, and the benefits they provide, within London neighbourhoods facing high heat risk and wider social vulnerability. \r\nAs part of our role in this project, we are inviting bids from suitably qualified consultants to support delivery TE&UR initiative.  \r\n\r\nTrees for Cities is acting as the contracting authority for this commission and will oversee delivery of the consultant's work as part of the wider TE&UR partnership. See link for more details Learn more about Trees for Cities' work and organisational strategy.  \r\n\r\nThis Invitation to Tender (ITT) is for a time-limited commission to deliver treescape enhancement opportunity mapping, ground-truthing and investment planning for 15 ward-scale areas distributed across a cohort of six London boroughs (e.g. 1 to 3 ward(s) per borough).  \r\n\r\nFurther background on the TE&UR initiative and the associated partnership is provided in section 1.1.2 and 1.2.3 of the Specification Schedule.   \r\n\r\nFurther details on the ambitions, anticipated outcomes and outputs expected from this commission are detailed in section 1.2 \r\n\r\nThis project requires a range of skills and we welcome consortia, with a single lead consultant required. Further details are provided on consultant capabilities and available data input in section 1.3.  \r\n\r\nAppointment is anticipated in August 2026 with delivery commencement expected by the end of the month, and payment to be made following achievement of key project milestones, as set out in the timetables provided in section 1.4. \r\n\r\nTo download the response documents, and for the links to ask questions and to submit applications, please visit our website at https://www.treesforcities.org/invitation-to-tender-tree-equity-urban-resilience-project",
-                "cpvDescription": "Engineering-related scientific and technical services and Urban planning and landscape architectural services and Forestry services and Environmental services",
-                "cpvDescriptionExpanded": "Architectural, construction, engineering and inspection services, Engineering services, Agricultural, forestry, horticultural, aquacultural and apicultural services, Sewage, refuse, cleaning and environmental services",
-                "publishedDate": "2026-06-30T11:52:34+01:00",
-                "deadlineDate": "2026-08-04T17:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 200000,
-                "valueHigh": 254000,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-06-30T11:56:06+01:00",
-                "organisationName": "TREES FOR CITIES",
-                "sector": null,
-                "cpvCodes": "71350000 71400000 77200000 90700000",
-                "cpvCodesExtended": "71000000 71300000 77000000 90000000",
-                "region": "London",
-                "regionText": "London",
-                "start": "2026-08-25T00:00:00+01:00",
-                "end": "2027-12-23T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "4dd36b38-aa35-40bb-bb65-03e69bbad71f",
                 "parentId": null,
                 "noticeIdentifier": "RM6241.",
@@ -1655,6 +1619,78 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "a6bb8e7a-f59f-4e94-83e2-a3d9c7c807bb",
+                "parentId": "f446af27-fd50-41f8-b64b-9d51adc433c5",
+                "noticeIdentifier": "CF-3641500D0O000000rwimUAA",
+                "title": "Validation of Existing Programmes and Modules at The Royal Marsden School",
+                "description": "The Royal Marsden NHS Foundation Trust is seeking to appoint a Higher Education Institution (HEI) partner to provide academic validation, quality assurance and accreditation services for The Royal Marsden School&#039;s undergraduate and postgraduate education portfolio.",
+                "cpvDescription": "Training programme services and Adult-education services at university level and Personal development training services and Education and training services",
+                "cpvDescriptionExpanded": "Education and training services, Training services, Training facilities, Adult and other education services",
+                "publishedDate": "2026-08-04T20:33:42+01:00",
+                "deadlineDate": "2026-09-08T15:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 900000,
+                "valueHigh": 1400000,
+                "postcode": "SW3 6JJ",
+                "coordinates": "51.491239,-0.16875",
+                "isSubNotice": true,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": false,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-05T10:30:24+01:00",
+                "organisationName": "Central London Community Healthcare NHS Trust",
+                "sector": "",
+                "cpvCodes": "80521000 80430000 80570000 80000000",
+                "cpvCodesExtended": "80000000 80500000 80520000 80400000",
+                "region": "London",
+                "regionText": "London",
+                "start": "2026-11-17T00:00:00Z",
+                "end": "2031-11-16T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d09f3113-3dd8-4066-8ed5-2be16edffdd4",
+                "parentId": null,
+                "noticeIdentifier": "57a98ca4-462d-4311-8bd7-424dc69202ae",
+                "title": "CA18317 - ITT 47/2026 - Labour Market Partnership (LMP) - Get Work Ready Programme",
+                "description": "The Council wishes to appoint a suitably experienced external partner (the Partner) to deliver a Get Work Ready Programme on behalf of NMD LMP.\r\n\r\nThe Partner will be responsible for the design, development, and delivery of the Newry, Mourne and Down Labour Market Partnership (NMD LMP) Get Work Ready programme across the entire Council area. \r\n\r\nAimed at supporting individuals who are unemployed or economically inactive to progress into employment, education, training, or other pathways, the Get Work Ready programme will enhance employability and long-term labour market participation, while aligning delivery with local labour market needs and the strategic objectives of the Labour Market Partnership.\r\n\r\nDelivery of the Get Work Ready programme by the Partner will provide targeted, personalised, and effective employment support and advice to individuals seeking work. The programme is expected to achieve positive and sustained employment outcomes by supporting participants to secure fulfilling, long-term paid employment, and to assist those currently in lower-paid roles, including individuals in receipt of Universal Credit, to progress into higher-paid employment. \r\n\r\nAll employment outcomes must meet a minimum threshold of 16 hours per week and be paid at or above the National Minimum Wage.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18317.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18317 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Adult and other education services and Education and training services and Personal development training services and Provision of services to the community",
+                "cpvDescriptionExpanded": "Education and training services, Training services, Administration, defence and social security services",
+                "publishedDate": "2026-08-04T14:27:18+01:00",
+                "deadlineDate": "2026-09-01T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 441280,
+                "valueHigh": 441280,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-04T14:27:18+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "80400000 80000000 80570000 75200000",
+                "cpvCodesExtended": "80000000 80500000 75000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-10-01T00:00:00+01:00",
+                "end": "2027-03-31T00:00:00+01:00"
             }
         },
         {
@@ -2231,78 +2267,6 @@
                 "regionText": "Any region",
                 "start": "2026-09-01T00:00:00+01:00",
                 "end": "2027-05-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "bc633e20-0c7d-4803-bf89-f3cfd1df3de5",
-                "parentId": null,
-                "noticeIdentifier": "1952563f-222f-4d7e-afcf-b290bec9b3af",
-                "title": "CA18200 - RFQ 2026/23 - NMANDD PEACEPLUS 3.2 Nature and Wellness Walks",
-                "description": "Competent consultancy organisations are invited to tender for the design and delivery of a culturally focused integration programme centred on a series of guided, family-friendly nature and wellbeing walks. \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18200.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18200 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Education and training services and Recreational, cultural and sporting services and Other community, social and personal services",
-                "cpvDescriptionExpanded": "Education and training services, Recreational, cultural and sporting services, Other community, social and personal services",
-                "publishedDate": "2026-07-08T10:36:17+01:00",
-                "deadlineDate": "2026-08-05T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-08T10:36:17+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "80000000 92000000 98000000",
-                "cpvCodesExtended": "80000000 92000000 98000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-08-31T00:00:00+01:00",
-                "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "81c7f5ce-7b07-4d11-9989-be89c73f8919",
-                "parentId": null,
-                "noticeIdentifier": "0aac0aa0-c2d3-4000-bdfc-21c548cda89f",
-                "title": "CA18146 - ITT 43/2026 - PEACEPLUS Collaborative Interaction Programme - Sustaining Cross Community Relationships",
-                "description": "To deliver seven standalone PEACEPLUS cross community projects, one in each District Electoral Area (DEA), engaging individuals and communities who are not typically involved in peacebuilding. Through structured contact, facilitated dialogue, and capacity building, the programme will strengthen relationships, empower communities, and support the development of shared visions for local areas. This work will contribute to the gradual removal of psychological and physical barriers and promote long term reconciliation.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18146.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18146 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services and Health and social work services",
-                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services, Health and social work services",
-                "publishedDate": "2026-07-01T10:00:26+01:00",
-                "deadlineDate": "2026-08-05T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-01T10:00:26+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "92000000 80000000 98000000 85000000",
-                "cpvCodesExtended": "92000000 80000000 98000000 85000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-09-01T00:00:00+01:00",
-                "end": "2027-08-31T00:00:00+01:00"
             }
         },
         {
@@ -3427,7 +3391,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "38"
+                "value": "37"
             },
             {
                 "key": "Australia",
@@ -4460,7 +4424,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "87"
+                "value": "86"
             },
             {
                 "key": "Pipeline",
@@ -4477,7 +4441,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "95"
+                "value": "94"
             },
             {
                 "key": "Closed",

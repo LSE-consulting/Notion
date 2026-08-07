@@ -1,5 +1,5 @@
 {
-    "hitCount": 94,
+    "hitCount": 95,
     "noticeList": [
         {
             "score": 1,
@@ -1619,6 +1619,42 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d19898c0-0419-464f-a554-7e15996b084c",
+                "parentId": null,
+                "noticeIdentifier": "tender_541810/1600384",
+                "title": "ECSC Dynamic Framework - Re-opening of Lot 9 - Early Years Experts - Sector Support",
+                "description": "The Department for Education is inviting tenders in line with the specification for suppliers to join the existing Lot 9 - DfE Support for the Early Years Sector of the Educational and Children&amp;apos;s Social Care Professionals (ECSC) Framework. \r\n\r\nSuppliers must have successfully responded to all mandatory pre-qualification questions in the overarching ITT prior to responding to the Lot-specific requirements contained within this Invitation to Tender.\r\n\r\nThe initial tender window is from 6th August 2026 to 16th September 2026\r\n\r\nBidders are able to respond to the ITT by submitting bids to join the individual lot on the framework during this onboarding phase and will undergo rigorous supplier checks. \r\n\r\nThe Department reserves the right to reopen the Lot to allow new entrants to the market to apply to join this Lot.\r\n\r\nLot 9 Early Years Experts - Sector Support of the Educational and Children&amp;apos;s Social Care (ECSC) Framework Style Agreement will allow direct call-off and mini competition routes as detailed in Schedule 3 of the Framework Agreement.\r\n\r\nThe Framework Lot was established to provide access to specialist expertise that can be called upon to support delivery of the Department&amp;apos;s Best Start in Life (BSIL) strategy. \r\n\r\nSince the creation of the Framework Lot, some of the information contained within the specification has been updated to provide additional clarity on delivering on the BSIL strategy.\r\n \r\nTo support delivering on the commitments of the BSIL strategy, the Department is undertaking a procurement for a BSIL Implementation Partner. \r\n\r\nFor some call-off requirements the Implementation Partner may be required to manage some call-off requirements from Lot 9 and support requirements that emerge during programme delivery.\r\n\r\nOther requirements called-off from Lot 9 which are not relevant to the Implementation Partner work will continue to be managed by DfE \r\n \r\nIt is important to note that organisations must be appointed to the Dynamic Framework in order to access and bid for any future call-off opportunities issued through it. \r\n\r\nWhile suppliers may join the framework and choose not to bid for individual requirements, organisations that are not admitted to the framework will be ineligible to bid for or be awarded future call-off contracts procured through Lot 9.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2026-08-07T09:18:29+01:00",
+                "deadlineDate": "2026-09-16T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-07T09:18:29+01:00",
+                "organisationName": "Department for Education",
+                "sector": "",
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "2026-10-12T00:00:00+01:00",
+                "end": "2029-03-31T00:00:00+01:00"
             }
         },
         {
@@ -3475,11 +3511,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "East of England",
-                "value": "36"
+                "value": "37"
             },
             {
                 "key": "Egypt",
@@ -3491,31 +3527,31 @@
             },
             {
                 "key": "North East",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "North West",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "41"
+                "value": "42"
             },
             {
                 "key": "West Midlands",
-                "value": "40"
+                "value": "41"
             },
             {
                 "key": "London",
-                "value": "37"
+                "value": "38"
             },
             {
                 "key": "South East",
-                "value": "37"
+                "value": "38"
             },
             {
                 "key": "South West",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Estonia",
@@ -4424,7 +4460,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "85"
+                "value": "86"
             },
             {
                 "key": "Pipeline",
@@ -4441,7 +4477,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "94"
+                "value": "95"
             },
             {
                 "key": "Closed",

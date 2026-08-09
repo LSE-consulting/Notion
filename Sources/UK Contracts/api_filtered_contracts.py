@@ -1,5 +1,15 @@
 import requests
 import json
+from pathlib import Path
+
+# Shared keyword blocklist (sources/ root, one level up from this script) - added 2026-08-09 per Javiera's feedback
+BLOCKED_WORDS_PATH = Path("../blocked_words.py")
+if not BLOCKED_WORDS_PATH.exists():
+    raise FileNotFoundError(f"Could not find {BLOCKED_WORDS_PATH.resolve()}")
+
+import sys
+sys.path.insert(0, str(BLOCKED_WORDS_PATH.parent.resolve()))
+from blocked_words import is_blocked, blocked_keyword_hits
 
 base_url = "https://www.contractsfinder.service.gov.uk/api/rest/2/search_notices/json"
 keyword = "analysis"
@@ -70,6 +80,26 @@ if response.status_code == 200:
     data = response.json()
     
     if data:
+        # Blocked-keyword filter — drop matching notices before they ever
+        # reach output_data.json (title + description, same shared blocklist
+        # used by every other scraper notebook in this repo)
+        original_notices = data.get("noticeList", [])
+        filtered_notices = []
+        skipped_blocked = 0
+        for entry in original_notices:
+            item = entry.get("item", {})
+            title = item.get("title", "")
+            description = item.get("description", "")
+            if is_blocked(title, description):
+                hits = blocked_keyword_hits(title, description)
+                skipped_blocked += 1
+                print(f"⛔ Skipping blocked keyword ({', '.join(hits)}): {title}")
+                continue
+            filtered_notices.append(entry)
+        data["noticeList"] = filtered_notices
+        print(f"✅ {len(filtered_notices)} notices kept, {skipped_blocked} skipped by blocklist "
+              f"(of {len(original_notices)} fetched)")
+
         output_file = "UK Contracts/output_data.json"  # Save as JSON file
         with open(output_file, "w") as f:
             json.dump(data, f, indent=4)  # Save with pretty formatting

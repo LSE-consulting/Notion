@@ -24,6 +24,20 @@
 # "tourism development", "logistics policy", "construction sector reform").
 # Skipped notices are printed to console - spot-check those if false positives
 # become a problem, and narrow the relevant term(s) to a phrase instead.
+#
+# Reviewed against ~2,200 historical Notion titles (EU TED, EU Commission, UNGM
+# only - UK Contracts Finder/Find a Tender/CoE/IDB/World Bank not yet checked)
+# to find real-world variants. Added "logistical", "worksuit", "landfill",
+# "recycling" on the strength of real title matches. Deliberately did NOT add
+# "reconstruction" (would catch live EU-Ukraine reconstruction consultancy work)
+# or "promotion"/"promotional" (legitimate trade/investment/employment policy
+# language, and already a positive keyword elsewhere in the classifier). At
+# time of this review, the list as a whole caught 56 of ~2,200 historical
+# titles (2.5%) that had previously been accepted into the database - most
+# looked like consultancy/research work that merely mentions these words
+# (rail operations review, waste-strategy consultancy, ERP/logistics IT work)
+# rather than the low-value services this list is meant to catch, concentrated
+# in the "operational" and "construction" bare-word matches specifically.
 
 from __future__ import annotations
 
@@ -79,6 +93,7 @@ BLOCKED_KEYWORDS: List[str] = [
     "work suit",
     "work suits",
     "workwear",
+    "worksuit",
     "overalls",
     "boilersuit",
     "boiler suit",
@@ -87,6 +102,7 @@ BLOCKED_KEYWORDS: List[str] = [
 
     # --- Logistics (bare - max coverage, per Javiera) ---
     "logistics",
+    "logistical",
 
     # --- Operational (bare - max coverage, per Javiera) ---
     "operational",
@@ -121,6 +137,8 @@ BLOCKED_KEYWORDS: List[str] = [
     "refuse collection",
     "skip hire",
     "waste management",
+    "landfill",
+    "recycling",
 ]
 
 

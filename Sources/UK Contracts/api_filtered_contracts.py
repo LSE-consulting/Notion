@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # Shared keyword blocklist (sources/ root, one level up from this script) - added 2026-08-09 per Javiera's feedback
-BLOCKED_WORDS_PATH = Path("../blocked_words.py")
+BLOCKED_WORDS_PATH = Path("blocked_words.py")
 if not BLOCKED_WORDS_PATH.exists():
     raise FileNotFoundError(f"Could not find {BLOCKED_WORDS_PATH.resolve()}")
 

@@ -1,5 +1,5 @@
 {
-    "hitCount": 92,
+    "hitCount": 93,
     "noticeList": [
         {
             "score": 1,
@@ -1403,6 +1403,42 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "7752967e-a336-4a28-b6df-f25c769c15ca",
+                "parentId": null,
+                "noticeIdentifier": "e4c5a9c8-b5a3-46da-9a1b-8d2487b0045e",
+                "title": "CA18346 - Tender 54/2026 - NMANDD PEACEPLUS Thriving Together 3.6 United through Play and Expression.",
+                "description": "Competent and creative suppliers are hereby invited to tender for the design, development, and delivery of a Responsive Peace Building Programme for young people aged 12-18 years.\r\nThe programme will provide safe and supportive spaces for young people to explore challenging political and social issues through dialogue, learning, and community engagement. It will promote greater understanding and respect for diverse identities while strengthening cross-community, cross-border, and intergenerational relationships.\r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18346.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18346 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Education and training services and Recreational, cultural and sporting services and Other community, social and personal services",
+                "cpvDescriptionExpanded": "Education and training services, Recreational, cultural and sporting services, Other community, social and personal services",
+                "publishedDate": "2026-08-13T11:21:22+01:00",
+                "deadlineDate": "2026-09-10T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 52674.85,
+                "valueHigh": 52674.85,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-13T11:21:22+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "80000000 92000000 98000000",
+                "cpvCodesExtended": "80000000 92000000 98000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-09-30T00:00:00+01:00",
+                "end": "2026-12-31T00:00:00Z"
             }
         },
         {
@@ -2995,7 +3031,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "32"
+                "value": "33"
             },
             {
                 "key": "Australia",
@@ -4028,7 +4064,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "83"
+                "value": "84"
             },
             {
                 "key": "Pipeline",
@@ -4045,7 +4081,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "92"
+                "value": "93"
             },
             {
                 "key": "Closed",

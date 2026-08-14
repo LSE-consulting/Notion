@@ -1,5 +1,5 @@
 {
-    "hitCount": 93,
+    "hitCount": 94,
     "noticeList": [
         {
             "score": 1,
@@ -1115,6 +1115,42 @@
                 "regionText": "Yorkshire and The Humber",
                 "start": "2028-06-12T00:00:00+01:00",
                 "end": "2028-10-11T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "06ddf1ca-1dac-41a3-9917-78b5968c7ec5",
+                "parentId": "de0e8dac-5122-4292-bde3-ab2ea726d6ba",
+                "noticeIdentifier": "tender_541138/1602813",
+                "title": "L7 Accountancy Modules Funding",
+                "description": "Department for Education is undertaking an Early Market Engagement exercise to engage with potential suppliers and gain a better understanding of the current market in relation to establish a new, sustainable funding route and contractual arrangement that enables the Department to provide Level 7 accountancy modules, ensuring structured support and progress management for learners and safeguarding the pipeline of professionally qualified accountants.\u200b\r\n\r\nThe purpose of this engagement is to:\r\n\r\nunderstand the capability and capacity of the supplier market;\r\nexplore potential delivery models and approaches;\r\nunderstand current market developments, innovation and best practice;\r\nidentify potential challenges, risks and opportunities;\r\nseek supplier views to help inform the development of the requirement and potential future procurement strategy.\r\n\r\nAs part of this exercise, DfE intends to hold an Early Market Engagement session via Microsoft Teams.\r\n\r\nInterested suppliers are invited to register their interest through this notice. Further information regarding the session, including joining arrangements and any relevant documentation, will be provided to registered participants.\r\n\r\nPlease note that this is an Early Market Engagement exercise and does not constitute a call for competition, invitation to tender or request for a quotation. Suppliers will not be required to submit a tender or formal proposal as part of this exercise. Participation, or non-participation, in this engagement will not preclude or advantage any supplier in relation to any subsequent procurement exercise.\r\n\r\nDfE reserves the right to use information and feedback obtained through this engagement to inform its requirements and procurement approach. Any future procurement opportunity, should one be pursued, will be subject to a separate formal procurement process.",
+                "cpvDescription": "Adult-education services at university level",
+                "cpvDescriptionExpanded": "Education and training services, Adult and other education services",
+                "publishedDate": "2026-08-14T09:14:10+01:00",
+                "deadlineDate": "2026-08-28T23:59:59+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "SW1P 3BT",
+                "coordinates": "51.495,-0.132",
+                "isSubNotice": true,
+                "noticeType": "PreProcurement",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-14T09:44:51+01:00",
+                "organisationName": "Department for Education",
+                "sector": "",
+                "cpvCodes": "80430000",
+                "cpvCodesExtended": "80000000 80400000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "0001-01-01T00:00:00Z",
+                "end": "0001-01-01T00:00:00Z"
             }
         },
         {
@@ -3031,7 +3067,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "33"
+                "value": "34"
             },
             {
                 "key": "Australia",
@@ -4072,7 +4108,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "6"
+                "value": "7"
             }
         ],
         "other": 0
@@ -4081,7 +4117,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "93"
+                "value": "94"
             },
             {
                 "key": "Closed",

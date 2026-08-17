@@ -364,42 +364,6 @@
         {
             "score": 1,
             "item": {
-                "id": "e60b6125-fdfe-4d8b-8737-3159b57fd1d7",
-                "parentId": null,
-                "noticeIdentifier": "CUTIA/2026",
-                "title": "Creative Sector Services CIC (t/a Creative United) Take it away Scheme Credit Provider Contract",
-                "description": "A tender opportunity is offered by Creative Sector Services CIC (trading as Creative United), for the provision of consumer credit services for the Take it away Scheme (the Scheme) commencing 1 November 2026 for a period of 18 months, with provision for Creative United to extend the contract for two (2) further twelve (12) month periods (subject to performance review in accordance with the terms and conditions of contract) up to a maximum of forty-two(42) months in total. \r\n\r\nThe Take it away Scheme is a publicly funded initiative designed to make it more affordable for people to get involved in learning and playing music by providing interest free loans of between &#xA3;100 and &#xA3;25,000 for the purchase of musical instruments, equipment, software any other associated goods or services they may need (such as a block of tuition) in order to get started or further develop their music practice.  \r\n\r\nCreative United&#039;s objective is to use the Take it away scheme to support creative livelihoods by providing affordable access to musical instruments to people of all ages and abilities across the UK, working in partnership with musical instrument retailers and other organisations across the music sector.  \r\n\r\nThe Scheme is open to all qualifying UK residents over the age of 18 (subject to status) and made available via a network of approved musical instrument retailers in England. A variation of the scheme in partnership with the Arts Council of Northern Ireland is available exclusively to Northern Ireland Residents over the age of 18.  \r\n\r\nThe awarded contract would cover the provision of the Scheme through the network of retailers in England and in Northern Ireland. The opportunity may also exist during the term of the awarded contract for the Scheme to be extended to include a network of retailers in Wales and/or Scotland subject to the agreement and financial support of their respective Arts Councils (or other funders) in due course. For the avoidance of doubt the inclusion of Scotland and Wales is not guaranteed but is included as a potential enlargement of the Scheme for the purposes of this procurement, subject to the caveat above.  \r\n\r\nUnder our current funding agreement with ACE, our priority is to support customers that fall into one or more of the following target categories: \r\n- Customers earning below the median UK wage of &#xA3;34,000 \r\n- Customers living in areas of low participation in the arts (as reported by the Department for Culture Media and Sport, and the Office of National Statistics \r\n- Customers purchasing a musical instrument for the first time \r\n- Customers that identify as disabled (or purchasing on behalf of a disabled person) \r\n\r\nTo apply:\r\nYou should complete and return a copy of our attached Procurement Specific Questionnaire (PSQ) by 17 July 2026.\r\n\r\nAll supporting documents including the Invitation to Tender (ITT) which includes the specifics of the contract are available to download from this notice.",
-                "cpvDescription": "Financial and insurance services",
-                "cpvDescriptionExpanded": "Financial and insurance services",
-                "publishedDate": "2026-07-06T17:49:38+01:00",
-                "deadlineDate": "2026-08-14T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 157500,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-06T17:49:38+01:00",
-                "organisationName": "CREATIVE SECTOR SERVICES C.I.C.",
-                "sector": null,
-                "cpvCodes": "66000000",
-                "cpvCodesExtended": "66000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Northern Ireland",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Northern Ireland",
-                "start": "2026-11-01T00:00:00Z",
-                "end": "2028-04-30T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "2322fbc8-ede1-41c4-84c9-f586c0472974",
                 "parentId": "c3749396-4398-4a36-9718-f3202fbc33f6",
                 "noticeIdentifier": "YPO001-DN668064-19197296",
@@ -940,6 +904,42 @@
         {
             "score": 1,
             "item": {
+                "id": "18036e22-d57b-48e2-b80f-8929f1f72af5",
+                "parentId": null,
+                "noticeIdentifier": "20260814163539-31796",
+                "title": "Electrical &amp; Mechanical Consultancy Services for Generator Insfrastructure",
+                "description": "Provision of Electrical &amp; Mechanical Consultancy Services for Generator Infrastructure",
+                "cpvDescription": "Business and management consultancy services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services",
+                "publishedDate": "2026-08-14T16:35:45+01:00",
+                "deadlineDate": "2026-09-07T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 20000,
+                "valueHigh": 0,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-14T16:35:45+01:00",
+                "organisationName": "Civil Nuclear Police Authority (CNPA)  / Civil Nuclear Constabulary (CNC)",
+                "sector": "",
+                "cpvCodes": "79410000",
+                "cpvCodesExtended": "79000000 79400000",
+                "region": "North West",
+                "regionText": "North West",
+                "start": "2026-09-21T00:00:00+01:00",
+                "end": "2027-09-20T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "2beac901-5c90-4a54-a056-037d888aa354",
                 "parentId": null,
                 "noticeIdentifier": "RM6264",
@@ -1336,42 +1336,6 @@
         {
             "score": 1,
             "item": {
-                "id": "f3894303-aea2-43b5-9321-cbf62784fd78",
-                "parentId": null,
-                "noticeIdentifier": "0059444",
-                "title": "Future Employment Support (FES)",
-                "description": "Want to Partner with Serco to Transform Lives and Communities?\r\n\r\nSerco intends to participate in the Department for Work and Pensions&#039; forthcoming Future Employment Support (FES) procurement, designed to help unemployed Universal Credit claimants move closer to work, enter sustainable employment and progress in their careers.\r\n\r\nFES is expected to provide personalised, locally responsive support tailored to individual needs. This may include skills and training, work experience, employer-led pathways, job brokerage, self-employment support, coaching, health and wellbeing interventions, childcare and travel support, and access to specialist services such as ESOL, mental health, substance misuse and disability support.\r\n\r\nWhy Partner with Serco?\r\n\r\nWe believe lasting employment outcomes are achieved through strong local partnerships, innovative delivery and a shared commitment to transforming lives. We are seeking a diverse supply chain that combines national capability with local expertise.\r\n\r\nWe welcome expressions of interest from organisations of all sizes, including SMEs, VCSEs, social enterprises and specialist providers.\r\n\r\nWe are particularly interested in:\r\n\r\nSkills, training and education providers\r\nCommunity and voluntary organisations\r\nEmployer engagement and recruitment specialists\r\nHealth, wellbeing and disability support providers\r\nESOL, inclusion and equality-focused organisations\r\nProviders supporting people with complex barriers to work\r\nYouth, family and disadvantaged group specialists\r\nHousing, justice and rehabilitation organisations\r\nWhat We Are Looking For\r\n\r\nWe would like to hear from organisations that can demonstrate:\r\n\r\nSuccess in supporting people into employment, education or training\r\nStrong local knowledge and community relationships\r\nExperience supporting participants with additional or complex needs\r\nEffective employer engagement and labour market connections\r\nPersonalised, customer-centred delivery\r\nInnovative and evidence-based approaches\r\nCommitment to collaboration and continuous improvement\r\nInclusive and accessible services\r\nMarket Engagement\r\n\r\nAs part of our bid development activity, we will be engaging with potential partners through:\r\n\r\nMarket engagement events and webinars\r\nRegional and thematic workshops\r\nOne-to-one discussions\r\nRequests for Information (RFIs)\r\nCo-design and solution development sessions\r\n\r\nEarly engagement will help shape our delivery model and provide opportunities for meaningful collaboration.\r\n\r\nIf your organisation shares our ambition to help people overcome barriers, realise their potential and achieve sustainable employment outcomes, we would welcome the opportunity to speak with you.\r\n\r\nTogether, we can create a service that delivers lasting impact for participants, employers and communities.\r\n\r\nApply here: https://forms.office.com/Pages/ResponsePage.aspx?id=3RY2-aZFyECeKa2rL7XyXF_72PUqoEtBtSSCFYN7mm9UOE1USDNMSjEzSDVFR0YzQVBOWjdFNExSOC4u",
-                "cpvDescription": "Training services",
-                "cpvDescriptionExpanded": "Education and training services",
-                "publishedDate": "2026-07-14T09:27:49+01:00",
-                "deadlineDate": "2026-08-14T23:59:59+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 0,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "PreProcurement",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-07-14T15:31:44+01:00",
-                "organisationName": "SERCO LIMITED",
-                "sector": null,
-                "cpvCodes": "80500000",
-                "cpvCodesExtended": "80000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "start": "",
-                "end": ""
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "7ed83287-3273-455b-befd-6fbf03e2d385",
                 "parentId": "ed9299b3-be8e-407e-9f6a-0b5ab4a7629d",
                 "noticeIdentifier": "CF-0023500D24000000HFzAEAW",
@@ -1439,6 +1403,42 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "88225ba5-5df1-471f-a268-3b65905781f0",
+                "parentId": null,
+                "noticeIdentifier": "fc553d1c-1cac-4642-b1f6-4efae5791f9a",
+                "title": "CA18351 - ITT 55/2026 - PEACEPLUS Social &amp; Emotional Support Programme - Rhythm Across Generations",
+                "description": "Competent consultancy companies are hereby invited to tender to design, develop and deliver a PEACEPLUS - Social and Emotional Intergenerational Support programme, focusing on music and dance.\r\n\r\nThis project will deliver 7 intergenerational Music and Dance programmes, delivered across the Council area with one per District Electoral Area (DEA).  The programme with include interactive workshops exploring how music and dance have changed and evolved through recent history and an end of programme celebration event such as a tea dance or music concert. \r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18351.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18351 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services",
+                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services",
+                "publishedDate": "2026-08-14T15:09:24+01:00",
+                "deadlineDate": "2026-09-11T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 43750,
+                "valueHigh": 43750,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-14T15:09:24+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "92000000 80000000 98000000",
+                "cpvCodesExtended": "92000000 80000000 98000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-11-02T00:00:00Z",
+                "end": "2027-08-31T00:00:00+01:00"
             }
         },
         {
@@ -3067,7 +3067,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Australia",
@@ -3151,11 +3151,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "35"
+                "value": "33"
             },
             {
                 "key": "East of England",
-                "value": "37"
+                "value": "35"
             },
             {
                 "key": "Egypt",
@@ -3167,31 +3167,31 @@
             },
             {
                 "key": "North East",
-                "value": "36"
+                "value": "34"
             },
             {
                 "key": "North West",
-                "value": "35"
+                "value": "34"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "42"
+                "value": "40"
             },
             {
                 "key": "West Midlands",
-                "value": "41"
+                "value": "39"
             },
             {
                 "key": "London",
-                "value": "38"
+                "value": "36"
             },
             {
                 "key": "South East",
-                "value": "38"
+                "value": "36"
             },
             {
                 "key": "South West",
-                "value": "35"
+                "value": "33"
             },
             {
                 "key": "Estonia",
@@ -3379,7 +3379,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "22"
+                "value": "21"
             },
             {
                 "key": "Oman",
@@ -4100,7 +4100,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "84"
+                "value": "85"
             },
             {
                 "key": "Pipeline",
@@ -4108,7 +4108,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "7"
+                "value": "6"
             }
         ],
         "other": 0

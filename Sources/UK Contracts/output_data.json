@@ -1,5 +1,5 @@
 {
-    "hitCount": 92,
+    "hitCount": 93,
     "noticeList": [
         {
             "score": 1,
@@ -1367,6 +1367,42 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "9e6075b9-419a-4770-a98e-05fa579ca43d",
+                "parentId": null,
+                "noticeIdentifier": "5a57bced-c51a-4e0e-8b96-f4eef4efbef8",
+                "title": "CA18366 - Request for Tender - Brand, Media and Communications Engagement Strategy",
+                "description": "Keys Academies invites suitably experienced organisations to tender for the development and delivery of a bespoke brand, media and communications engagement strategy.\r\nThe successful provider will support the formation and launch of Deacon Keys Academies, scheduled for January 2027, ensuring that its vision, values, strengths and benefits are communicated clearly and consistently to internal and external stakeholders.\r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18366.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18366 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Marketing management consultancy services and Advertising and marketing services and Marketing services and Education and training services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services, Business and management consultancy services, Market and economic research; polling and statistics, Advertising and marketing services, Education and training services",
+                "publishedDate": "2026-08-20T12:45:14+01:00",
+                "deadlineDate": "2026-09-15T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "PE3 9PN",
+                "coordinates": "52.588889,-0.272609",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-20T12:45:14+01:00",
+                "organisationName": "PKAT",
+                "sector": "",
+                "cpvCodes": "79413000 79340000 79342000 80000000",
+                "cpvCodesExtended": "79000000 79400000 79410000 79300000 79340000 80000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-11-11T00:00:00Z",
+                "end": "2027-02-28T00:00:00Z"
             }
         },
         {
@@ -2995,7 +3031,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "Australia",
@@ -4028,7 +4064,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "84"
+                "value": "85"
             },
             {
                 "key": "Pipeline",
@@ -4045,7 +4081,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "92"
+                "value": "93"
             },
             {
                 "key": "Closed",

@@ -19,42 +19,66 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pandas requests parsel notebook nbconvert python-dateutil beautifulsoup4 langid
+
       - name: Execute Python Script
+        id: uk_fetch
+        continue-on-error: true
         working-directory: Sources
         run: python "UK Contracts/api_filtered_contracts.py"
-        
+
       - name: Execute UK Notion Notebook
+        id: uk_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/UK Contracts/UK_notion_upload.ipynb" --output "UK_notion_upload.ipynb"
       - name: Execute EU Notion Notebook
+        id: eu_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/EU Contracts/EU_API_clean.ipynb" --output "EU_API_clean.ipynb"    
       - name: Execute EU Commission Notion Notebook
+        id: eu_commission_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/EU Commission/eu_commission_notion_upload.ipynb" --output "eu_commission_notion_upload.ipynb"
       - name: Execute Find a Tender Notion Notebook
+        id: find_a_tender_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/Find a Tender/Find_tender_notion.ipynb" --output "Find_tender_notion.ipynb"    
       - name: Execute UNGM Notion Notebook
+        id: ungm_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/UNGM/ungm_notion_upload.ipynb" --output "ungm_notion_upload.ipynb"
       - name: Execute World Bank Notion Notebook
+        id: world_bank_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/World Bank/worldbank_notion_upload.ipynb" --output "worldbank_notion_upload.ipynb"
       - name: Execute IDB Notion Notebook
+        id: idb_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/IDB/idb_notion_upload.ipynb" --output "idb_notion_upload.ipynb"
       - name: Execute Council of Europe Notion Notebook
+        id: coe_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Sources/Council of Europe/coe_notion_upload.ipynb" --output "coe_notion_upload.ipynb"
       - name: Execute Expired Contract Update Notebook
+        id: expired_notion
+        continue-on-error: true
         run: |
           jupyter nbconvert --to notebook --execute "Shared/Expired_Contracts_Update.ipynb" --output "Expired_Contracts_Update.ipynb"    
+
       - name: Check git status before committing
+        if: always()
         run: git status
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
       - name: Commit and Push All Changes
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -63,3 +87,40 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Report failed steps
+        if: always()
+        shell: bash
+        run: |
+          failed=()
+          add() {
+            if [ "$2" = "failure" ]; then
+              failed+=("$1")
+            fi
+          }
+          add "UK Contracts Finder (fetch script)" "${{ steps.uk_fetch.outcome }}"
+          add "UK Contracts"                       "${{ steps.uk_notion.outcome }}"
+          add "EU TED"                             "${{ steps.eu_notion.outcome }}"
+          add "EU Commission"                      "${{ steps.eu_commission_notion.outcome }}"
+          add "Find a Tender"                      "${{ steps.find_a_tender_notion.outcome }}"
+          add "UNGM"                               "${{ steps.ungm_notion.outcome }}"
+          add "World Bank"                         "${{ steps.world_bank_notion.outcome }}"
+          add "IDB"                                "${{ steps.idb_notion.outcome }}"
+          add "Council of Europe"                  "${{ steps.coe_notion.outcome }}"
+          add "Expired contract update"            "${{ steps.expired_notion.outcome }}"
+
+          if [ ${#failed[@]} -gt 0 ]; then
+            {
+              echo "### Failed steps"
+              for f in "${failed[@]}"; do
+                echo "- $f"
+              done
+              echo ""
+              echo "All other steps ran and their changes were committed."
+            } >> "$GITHUB_STEP_SUMMARY"
+            for f in "${failed[@]}"; do
+              echo "::error::Step failed: $f"
+            done
+            exit 1
+          fi
+          echo "All steps completed successfully." >> "$GITHUB_STEP_SUMMARY"

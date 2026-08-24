@@ -1,5 +1,5 @@
 {
-    "hitCount": 93,
+    "hitCount": 92,
     "noticeList": [
         {
             "score": 1,
@@ -1372,6 +1372,42 @@
         {
             "score": 1,
             "item": {
+                "id": "b628a0d8-79b1-407e-886c-42b8e02df453",
+                "parentId": null,
+                "noticeIdentifier": "RM6102 Extension",
+                "title": "Apprenticeships Training Dynamic Marketplace",
+                "description": "CCS set up a Dynamic Purchasing System (DPS) for a period of 48 months with the extension option of 24 months. A further extension period of 43 months has been implemented. The total duration of this DPS is 9 years and 7 months and the end date is 27 October 2028.\r\n\r\nBidders can request to participate for this DPS for its 115 month duration including any extension periods.\r\n\r\nThis DPS is being procured under the Light Touch Regime (LTR), and is subject to limited regulations, in\r\naccordance with Regulations 74-76 PCR2015. This DPS provides central government and wider public sector with the opportunity to procure services within the scope of the existing and new Apprenticeship Standards for\r\nEngland (SASE) live Frameworks, Apprenticeships Standards, End Point Assessments (EPAs); and related services via a number of Education and Skills Funding Agency (ESFA) registered suppliers on the Apprenticeship Training Providers (RoATP) Register and or the Register of EPA Organisations (RoEPAO). CCS reserve the right to reduce, extend or terminate the DPS period at any time during its life time; as set out in the terms of the DMP Agreement.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2024-11-15T14:29:03Z",
+                "deadlineDate": "2028-10-27T23:59:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 800000000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-21T15:46:04+01:00",
+                "organisationName": "GOVERNMENT COMMERCIAL AGENCY",
+                "sector": null,
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Isle of Man,Guernsey,Jersey",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Isle of Man,Guernsey,Jersey",
+                "start": "2028-10-28T00:00:00+01:00",
+                "end": "2028-10-29T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "9e6075b9-419a-4770-a98e-05fa579ca43d",
                 "parentId": null,
                 "noticeIdentifier": "5a57bced-c51a-4e0e-8b96-f4eef4efbef8",
@@ -1984,42 +2020,6 @@
         {
             "score": 1,
             "item": {
-                "id": "be3049f8-e7e9-40ce-b319-44eafedc04f0",
-                "parentId": null,
-                "noticeIdentifier": "39040acb-4917-4724-90f6-2278d0b63cb5",
-                "title": "CA18276 - RFQ 2026/25 - NMANDD PEACEPLUS Thriving Together Celebrating Cultures and Diversity 3.5 Sports Festival",
-                "description": "Competent and creative suppliers are invited to tender for the design, development, and delivery of a two-stage Inclusive Sports Programme. Through both stages, the programme aims to increase understanding of disability inclusion, strengthen inclusive practice within local sporting organisations, expand participation opportunities for people with disabilities, and contribute to stronger, more connected communities across the district. \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18276.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18276 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Other community, social and personal services and Education and training services and Recreational, cultural and sporting services",
-                "cpvDescriptionExpanded": "Other community, social and personal services, Education and training services, Recreational, cultural and sporting services",
-                "publishedDate": "2026-07-24T11:00:21+01:00",
-                "deadlineDate": "2026-08-21T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 19545,
-                "valueHigh": 19545,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-24T11:00:21+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "98000000 80000000 92000000",
-                "cpvCodesExtended": "98000000 80000000 92000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-09-11T00:00:00+01:00",
-                "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "780cbe08-9b17-44c1-b681-949dea8dad4b",
                 "parentId": "f2e16089-6e79-42fb-97cd-b6a3c7b1ce38",
                 "noticeIdentifier": "YPO001-DN433526-71875119",
@@ -2123,42 +2123,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
                 "start": "2028-07-25T00:00:00+01:00",
                 "end": "2028-07-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "b628a0d8-79b1-407e-886c-42b8e02df453",
-                "parentId": null,
-                "noticeIdentifier": "RM6102 Extension",
-                "title": "Apprenticeships Training Dynamic Marketplace",
-                "description": "CCS set up a Dynamic Purchasing System (DPS) for a period of 48 months with the extension option of 24 months. A further extension period of 43 months has been implemented. The total duration of this DPS is 9 years and 7 months and the end date is 27 October 2028.\r\n\r\nBidders can request to participate for this DPS for its 115 month duration including any extension periods.\r\n\r\nThis DPS is being procured under the Light Touch Regime (LTR), and is subject to limited regulations, in\r\naccordance with Regulations 74-76 PCR2015. This DPS provides central government and wider public sector with the opportunity to procure services within the scope of the existing and new Apprenticeship Standards for\r\nEngland (SASE) live Frameworks, Apprenticeships Standards, End Point Assessments (EPAs); and related services via a number of Education and Skills Funding Agency (ESFA) registered suppliers on the Apprenticeship Training Providers (RoATP) Register and or the Register of EPA Organisations (RoEPAO). CCS reserve the right to reduce, extend or terminate the DPS period at any time during its life time; as set out in the terms of the DMP Agreement.",
-                "cpvDescription": "Education and training services",
-                "cpvDescriptionExpanded": "Education and training services",
-                "publishedDate": "2024-11-15T14:29:03Z",
-                "deadlineDate": "2028-10-27T23:59:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 800000000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2025-12-04T07:33:14Z",
-                "organisationName": "Crown Commercial Service",
-                "sector": null,
-                "cpvCodes": "80000000",
-                "cpvCodesExtended": "80000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Isle of Man,Guernsey,Jersey",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland,Isle of Man,Guernsey,Jersey",
-                "start": "2028-10-28T00:00:00+01:00",
-                "end": "2028-10-29T00:00:00+01:00"
             }
         },
         {
@@ -3031,7 +2995,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "36"
+                "value": "35"
             },
             {
                 "key": "Australia",
@@ -4064,7 +4028,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "85"
+                "value": "84"
             },
             {
                 "key": "Pipeline",
@@ -4081,7 +4045,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "93"
+                "value": "92"
             },
             {
                 "key": "Closed",

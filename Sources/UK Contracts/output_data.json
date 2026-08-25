@@ -1,5 +1,5 @@
 {
-    "hitCount": 92,
+    "hitCount": 96,
     "noticeList": [
         {
             "score": 1,
@@ -1367,6 +1367,150 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "c6e1c7fd-3bfd-4a1f-ac28-bf9297d74962",
+                "parentId": null,
+                "noticeIdentifier": "NTC 07",
+                "title": "Invitation to Tender - Communities of Practice Development",
+                "description": "CONTEXT\r\nNature Towns and Cities is a UK-wide mission to bring nature and green space to urban areas for everyone&#039;s benefit. It is backed by coalition of public, private and third sector organisations committed to putting accessible nature at the heart of vibrant, healthy, resilient places and communities, focusing on those areas that will benefit the most. Over the next 10 years we&#039;re aiming to help 5 million more people enjoy better access to green and blue space close to home, and 1 million more children to be able to play in nature on their doorstep. \r\n\r\nTHIS COMMISSION\r\nTo support places and communities on their journey we have already provided training, peer mentoring, action learning, case studies and how to guides, conferences and events and informal opportunities to collaborate, though the Nature Towns and Cities Network. We now wish to develop and establish a small number of Communities of Practice to connect people and organisations working to create, improve and care for urban nature across the UK. These spaces will connect local government and wider public sector, national NGOs, VCSE organisations and possibly private sector organisations around shared ambitions for greener, fairer, healthier towns and cities. Communities of Practice is a working concept, intended to start coalescing the large Nature Towns and Cities network around purposeful activity on specific themes. We want to create spaces where network members can work through live challenges, share experience, learn from different perspectives and identify practical next steps. This commission will determine what these spaces look and feel like, and how they are delivered.\r\n\r\nINFORMATION TO BE RETURNED\r\nTender responses should be sent to david.coughlin@nationaltrust.org.uk by the deadline of 12pm (midday) on 18/09/26 and include details of the following: \r\n\u2022 Outline of your proposed approach, including outputs \r\n\u2022 Description of your relevant experience, including examples of at least two pieces of similar work you have carried out. \r\n\u2022 Project timeline or Gantt chart \r\n\u2022 Key responsibilities of team members and time allocations \r\n\u2022 Proposed budget breakdown \r\n\r\nThe budget available for this work is &#xA3;50,000 inc VAT.\r\n\r\nPlease see the full ITT document attached for further details.",
+                "cpvDescription": "Research and development services and related consultancy services and Business services: law, marketing, consulting, recruitment, printing and security",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-08-25T11:24:02+01:00",
+                "deadlineDate": "2026-09-18T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 50000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-25T11:24:02+01:00",
+                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
+                "sector": null,
+                "cpvCodes": "73000000 79000000",
+                "cpvCodesExtended": "73000000 79000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-10-01T00:00:00+01:00",
+                "end": "2027-02-28T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "a32c67bc-0438-4c8e-91b9-3f03d459e8dc",
+                "parentId": null,
+                "noticeIdentifier": "UKPACT - ED 45",
+                "title": "Bangladesh Carbon Market Governance &amp; Readiness Sprint",
+                "description": "The UK Government&#039;s Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting proposals from qualified suppliers or consortia to deliver technical assistance to the government of Bangladesh. \r\n\r\nBangladesh is establishing the foundations for participation in high-integrity carbon markets, including Article 6, CORSIA and voluntary carbon markets. While progress has been made through the establishment of a carbon market framework and supporting governance arrangements, further support is needed to operationalise these systems across government, strengthen institutional coordination, and enable Bangladesh to use carbon markets to support delivery of its NDC 3.0 unconditional mitigation targets.\r\n\r\nThe assignment will provide targeted technical assistance and capacity building to strengthen Bangladesh&#039;s carbon market governance, authorisation processes, MRV, reporting and institutional readiness. Working with relevant government agencies, including MoEFCC, DoE, the Power Division, Ministry of Finance and other line ministries, the project will support practical implementation of carbon market rules, CORSIA readiness, UNFCCC reporting requirements, and inclusive, high-integrity market participation.\r\n\r\nKey outputs are expected to include governance and coordination tools, an authorisation and safeguards toolkit, CORSIA readiness and reporting support, a structured government capacity-building programme, and sector readiness briefs identifying future carbon market investment opportunities. The project aims to strengthen Bangladesh&#039;s ability to participate in high-integrity carbon markets, unlock climate finance, improve institutional capability, and support implementation of national climate targets.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice, and submit their applications to: targetedfund@ukpact.co.uk",
+                "cpvDescription": "Petroleum products, fuel, electricity and other sources of energy and Financial and insurance services and Research and development services and related consultancy services and Environmental services",
+                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Financial and insurance services, Research and development services and related consultancy services, Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2026-08-25T10:15:07+01:00",
+                "deadlineDate": "2026-09-22T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 250000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-25T10:15:07+01:00",
+                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
+                "sector": null,
+                "cpvCodes": "09000000 66000000 73000000 90700000",
+                "cpvCodesExtended": "09000000 66000000 73000000 90000000",
+                "region": "Bangladesh",
+                "regionText": "Bangladesh",
+                "start": "2026-11-01T00:00:00Z",
+                "end": "2027-10-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "5545ee74-3654-4bdf-ab69-6037bccacdb3",
+                "parentId": null,
+                "noticeIdentifier": "NTC 06",
+                "title": "Invitation to Tender - Evaluation Impact Case Studies",
+                "description": "CONTEXT\r\nThe Future Parks Accelerator (FPA) programme ran from 2019 to 2022 working intensively with 8 Local Authorities to help identify and develop new ways to care for the urban natural environment, create a step change in how people engaged with parks and greenspaces in the participant cities; and identify new ways to fund parks and greenspaces for the long term, putting the management and funding of green space on a more sustainable footing. \r\n7 of the FPA Cohort remained closely involved with the project partners following the completion of the programme and helped to co-design the follow-on ten-year programme. Nature Towns and Cities, launched in 2025, was designed to support transformative change in up to 100 towns and cities. These 7 places form the Nature Towns and Cities pioneer cohort continue to receive support from the programme while also supporting and mentoring new participants.\r\nAlthough evaluated throughout the programme, it was anticipated that on-the ground impacts would lag behind the implementation of these changes. \r\n\r\nTHIS COMMISSION\r\nThis commission seeks to understand and evidence the change that has taken place in each of the 7 places that have remained involved. We are seeking a consultant to undertake a follow-up study of the 7 places still participating in the Nature Towns and Cities Pioneer Cohort to understand what has happened since 2019 (and especially since 2022), and to generate robust, independent evidence of longer-term impact, including write up stories of whole place change, evidence the benefit to places and communities of investing in capacity-building and systems-change approaches and support Nature Towns and Cities &amp; Pioneer Cohort to understand and articulate the causal link between the interventions and their longer-term impacts.\r\n\r\nINFORMATION TO BE RETURNED\r\nSubmissions should include the following information: \r\n&#xB7;\tOutline of your proposed approach to the project, including project plan and high-level risk log\r\n&#xB7;\tDescription of your relevant experience and abridged CVs of the proposed project team. \r\n&#xB7;\tProposed budget breakdown. \r\n&#xB7;\tDetails of any matters or concerns not covered by this brief\r\n&#xB7;\tAnswers to the mandatory questions and company information included in the Annex (not included in page count).\r\n \r\nSubmissions should be no more than 6 pages in length. Abridged CVs can be included as appendices.  \r\nThese should be returned to anne.mackinnon@nationaltrust.org.uk by the deadline of 9am Monday 14th September 2026. \r\n\r\nThe budget available for this work is &#xA3;20-25k incl. VAT. \r\n\r\nPlease see the full attached ITT document for further details.",
+                "cpvDescription": "Research and experimental development services and Research and development consultancy services and Business and management consultancy services",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Business services: law, marketing, consulting, recruitment, printing and security, Business and management consultancy and related services",
+                "publishedDate": "2026-08-24T16:50:35+01:00",
+                "deadlineDate": "2026-09-14T09:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 20000,
+                "valueHigh": 25000,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-24T16:50:35+01:00",
+                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
+                "sector": null,
+                "cpvCodes": "73100000 73200000 79410000",
+                "cpvCodesExtended": "73000000 79000000 79400000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-10-05T00:00:00+01:00",
+                "end": "2027-01-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d34191ce-097a-4cbe-8245-70af0072eccd",
+                "parentId": null,
+                "noticeIdentifier": "EDPACT_44",
+                "title": "Unlocking Commercial and Industrial Captive Renewable Energy in Uganda: Market Sizing and Regulatory Reform",
+                "description": "The UK Government&#039;s Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting proposals from qualified suppliers or consortia to deliver technical assistance to Uganda&#039;s Electricity Regulatory Authority (ERA).\r\n\r\nUganda&#039;s electricity sector is predominantly powered by renewable energy and demand is growing rapidly. However, uptake of commercial and industrial (C&amp;I) captive renewable energy remains limited due to regulatory gaps, insufficient market data, and barriers to investment. This is particularly significant given the growing role of behind-the-meter renewable energy as a means of reducing diesel reliance, improving energy security, and supporting economic growth.\r\n\r\nThe assignment will support ERA, in partnership with the Ministry of Energy and Mineral Development (MEMD) and electricity distributors UEDCL, WENRECO and KIS, to strengthen the enabling environment for C&amp;I captive renewable energy. The work will establish an evidence base on market demand, existing captive generation and grid capacity, review Uganda&#039;s regulatory framework and international best practice, and develop targeted regulatory and market-enabling solutions.\r\n\r\nKey outputs are expected to include recommendations for a mid-tier regulatory framework, updated settlement and implementation guidance, standardised commercial documentation, and financing pathways to improve project bankability. The project aims to increase private-sector investment in captive renewable energy, accelerate deployment, reduce dependence on diesel generation, and strengthen Uganda&#039;s energy security and grid resilience.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice, and submit their applications to: targetedfund@ukpact.co.uk",
+                "cpvDescription": "Petroleum products, fuel, electricity and other sources of energy and Environmental engineering consultancy services and Energy and related services and Research and development services and related consultancy services and Environmental services",
+                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Research and development services and related consultancy services, Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2026-08-24T14:55:08+01:00",
+                "deadlineDate": "2026-09-21T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 350000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-24T14:55:08+01:00",
+                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
+                "sector": null,
+                "cpvCodes": "09000000 71313000 71314000 73000000 90700000",
+                "cpvCodesExtended": "09000000 71000000 71300000 71310000 73000000 90000000",
+                "region": "Uganda",
+                "regionText": "Uganda",
+                "start": "2026-11-01T00:00:00Z",
+                "end": "2027-10-30T00:00:00+01:00"
             }
         },
         {
@@ -3006,6 +3150,10 @@
                 "value": "2"
             },
             {
+                "key": "Bangladesh",
+                "value": "2"
+            },
+            {
                 "key": "Belgium",
                 "value": "2"
             },
@@ -3079,11 +3227,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "32"
+                "value": "34"
             },
             {
                 "key": "East of England",
-                "value": "34"
+                "value": "36"
             },
             {
                 "key": "Egypt",
@@ -3095,31 +3243,31 @@
             },
             {
                 "key": "North East",
-                "value": "33"
+                "value": "35"
             },
             {
                 "key": "North West",
-                "value": "33"
+                "value": "35"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "39"
+                "value": "41"
             },
             {
                 "key": "West Midlands",
-                "value": "38"
+                "value": "40"
             },
             {
                 "key": "London",
-                "value": "35"
+                "value": "37"
             },
             {
                 "key": "South East",
-                "value": "35"
+                "value": "37"
             },
             {
                 "key": "South West",
-                "value": "32"
+                "value": "34"
             },
             {
                 "key": "Estonia",
@@ -3307,7 +3455,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "21"
+                "value": "23"
             },
             {
                 "key": "Oman",
@@ -3359,10 +3507,6 @@
             },
             {
                 "key": "Azerbaijan",
-                "value": "1"
-            },
-            {
-                "key": "Bangladesh",
                 "value": "1"
             },
             {
@@ -3947,7 +4091,7 @@
             },
             {
                 "key": "Uganda",
-                "value": "1"
+                "value": "2"
             },
             {
                 "key": "Ukraine",
@@ -4015,11 +4159,11 @@
             },
             {
                 "key": "Scotland",
-                "value": "22"
+                "value": "24"
             },
             {
                 "key": "Wales",
-                "value": "22"
+                "value": "24"
             }
         ],
         "other": 0
@@ -4028,7 +4172,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "84"
+                "value": "88"
             },
             {
                 "key": "Pipeline",
@@ -4045,7 +4189,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "92"
+                "value": "96"
             },
             {
                 "key": "Closed",

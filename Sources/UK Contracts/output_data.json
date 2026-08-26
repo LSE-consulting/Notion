@@ -1,5 +1,5 @@
 {
-    "hitCount": 96,
+    "hitCount": 95,
     "noticeList": [
         {
             "score": 1,
@@ -2092,42 +2092,6 @@
         {
             "score": 1,
             "item": {
-                "id": "34b69685-d215-4c87-b3be-f940e6738b3b",
-                "parentId": null,
-                "noticeIdentifier": "a6c2d12c-7206-4716-9ae7-17037e5945d6",
-                "title": "CA18286 - RFQ2026/26 - NMANDD PEACEPLUS 3.5 Farmers Festival",
-                "description": "Competent and creative suppliers are hereby invited to tender for the design, development, and delivery of an engaging festival programme for the upcoming Farmers Festival in the Crotlieve DEA. \r\nThis initiative will deliver a celebratory, educational, and participant-led project that promotes greater understanding, appreciation, and respect for cultural identities, traditions, and rural heritage within the local community. \r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18286.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18286 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Education and training services and Recreational, cultural and sporting services and Other community, social and personal services",
-                "cpvDescriptionExpanded": "Education and training services, Recreational, cultural and sporting services, Other community, social and personal services",
-                "publishedDate": "2026-07-28T11:36:20+01:00",
-                "deadlineDate": "2026-08-25T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 19545,
-                "valueHigh": 19545,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-28T11:36:20+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "80000000 92000000 98000000",
-                "cpvCodesExtended": "80000000 92000000 98000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-09-15T00:00:00+01:00",
-                "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "c137566d-bebf-48af-89e0-fade82e1d10c",
                 "parentId": null,
                 "noticeIdentifier": "ESOP1000123",
@@ -3139,7 +3103,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "35"
+                "value": "34"
             },
             {
                 "key": "Australia",
@@ -4172,7 +4136,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "88"
+                "value": "87"
             },
             {
                 "key": "Pipeline",
@@ -4189,7 +4153,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "96"
+                "value": "95"
             },
             {
                 "key": "Closed",

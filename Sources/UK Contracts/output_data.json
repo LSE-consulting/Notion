@@ -1,5 +1,5 @@
 {
-    "hitCount": 95,
+    "hitCount": 97,
     "noticeList": [
         {
             "score": 1,
@@ -1372,6 +1372,222 @@
         {
             "score": 1,
             "item": {
+                "id": "9a77349f-e5a2-4dda-bf26-321cbb513238",
+                "parentId": null,
+                "noticeIdentifier": "ESOP1000126",
+                "title": "National Trust NI - Lead Consultant, Carrick-a-Rede capital works Infrastructure Project",
+                "description": "The National Trust is seeking to appoint a Lead Consultant for the Carrick-a-Rede Visitor Infrastructure Project through a single-stage Request for Proposal (RFP1) process. Bidders will be assessed on their capability, experience, financial standing, proposed methodology, and price.\r\n\r\nThe project aims to sustainably enhance Carrick-a-Rede as a premier visitor destination on the Causeway Coast, supporting increased visitor numbers while protecting the site&#039;s natural and cultural heritage, delivering a world-class visitor experience, and minimising impacts on the local community. \r\n\r\nThis commission will develop detailed proposals, and ultimately manage delivery of site infrastructure which is required to support planned growth at the site.\r\n\r\nClosing Date for RFP - 23rd September 2026\r\nDeadline for Queries - 16th September  2026\r\nAward Contract - 1st  October 2026\r\n\r\nThis opportunity is being conducted on the Proactis Plaza portal.\r\nhttps://supplierlive.proactisp2p.com/\r\n\r\nClick on the &quot;Opportunities&quot; button and filter on\r\nCustomer name - The National Trust\r\nAll communication is to be carried out via the Proactis portal",
+                "cpvDescription": "Architectural and related services and Engineering services and Construction-related services and Development consultancy services and Business and management consultancy and related services",
+                "cpvDescriptionExpanded": "Architectural, construction, engineering and inspection services, Research and development services and related consultancy services, Research and development consultancy services, Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-08-27T16:55:17+01:00",
+                "deadlineDate": "2026-09-23T16:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 40000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-27T16:55:17+01:00",
+                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
+                "sector": null,
+                "cpvCodes": "71200000 71300000 71500000 73220000 79400000",
+                "cpvCodesExtended": "71000000 73000000 73200000 79000000",
+                "region": "Northern Ireland",
+                "regionText": "Northern Ireland",
+                "start": "2026-10-05T00:00:00+01:00",
+                "end": "2028-04-01T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "93133394-1a8f-40e6-b007-ff000805a7f0",
+                "parentId": null,
+                "noticeIdentifier": "UKPACT - ED - 45",
+                "title": "Technical Assistance to Embed Renewable Integration in Madagascar Mining Permits",
+                "description": "La description de l'appel d'offres ainsi que les documents de soumission sont \u00e9galement disponibles en fran\u00e7ais. Veuillez consulter les pi\u00e8ces jointes pour plus d'informations.\r\n\r\nFollowing the reopening of mining permits in 2026, Madagascar has an opportunity to shape how new mining investments source power. While mining and environmental regulations are in place, renewable energy integration is not yet embedded within licensing and permitting requirements.\r\n\r\nThe assignment will support the Government of Madagascar to design, adopt and implement a Green Mining Energy Framework that embeds renewable energy requirements into mining licensing, environmental permitting and ESIA processes. \r\n\r\nKey outputs include a diagnostic and design options package, a Green Mining Energy Framework and supporting guidance for government adoption, and an implementation and compliance package with templates, monitoring tools and capacity-building support. The project aims to reduce future diesel dependence in the mining sector and support lower-emission mining development in Madagascar.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice, and submit their applications to: targetedfund@ukpact.co.uk",
+                "cpvDescription": "Petroleum products, fuel, electricity and other sources of energy and Mining, basic metals and related products and Electrical machinery, apparatus, equipment and consumables; lighting and Research and development services and related consultancy services and Environmental services",
+                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Mining, basic metals and related products, Electrical machinery, apparatus, equipment and consumables; lighting, Research and development services and related consultancy services, Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2026-08-26T16:28:30+01:00",
+                "deadlineDate": "2026-09-22T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 350000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-26T17:03:26+01:00",
+                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
+                "sector": null,
+                "cpvCodes": "09000000 14000000 31000000 73000000 90700000",
+                "cpvCodesExtended": "09000000 14000000 31000000 73000000 90000000",
+                "region": "Madagascar",
+                "regionText": "Madagascar",
+                "start": "2026-11-01T00:00:00Z",
+                "end": "2027-10-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d34191ce-097a-4cbe-8245-70af0072eccd",
+                "parentId": null,
+                "noticeIdentifier": "EDPACT_44",
+                "title": "Unlocking Commercial and Industrial Captive Renewable Energy in Uganda: Market Sizing and Regulatory Reform",
+                "description": "The UK Government's Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting proposals from qualified suppliers or consortia to deliver technical assistance to Uganda's Electricity Regulatory Authority (ERA).\r\n\r\nUganda's electricity sector is predominantly powered by renewable energy and demand is growing rapidly. However, uptake of commercial and industrial (C&I) captive renewable energy remains limited due to regulatory gaps, insufficient market data, and barriers to investment. This is particularly significant given the growing role of behind-the-meter renewable energy as a means of reducing diesel reliance, improving energy security, and supporting economic growth.\r\n\r\nThe assignment will support ERA, in partnership with the Ministry of Energy and Mineral Development (MEMD) and electricity distributors UEDCL, WENRECO and KIS, to strengthen the enabling environment for C&I captive renewable energy. The work will establish an evidence base on market demand, existing captive generation and grid capacity, review Uganda's regulatory framework and international best practice, and develop targeted regulatory and market-enabling solutions.\r\n\r\nKey outputs are expected to include recommendations for a mid-tier regulatory framework, updated settlement and implementation guidance, standardised commercial documentation, and financing pathways to improve project bankability. The project aims to increase private-sector investment in captive renewable energy, accelerate deployment, reduce dependence on diesel generation, and strengthen Uganda's energy security and grid resilience.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice, and submit their applications to: targetedfund@ukpact.co.uk",
+                "cpvDescription": "Petroleum products, fuel, electricity and other sources of energy and Environmental engineering consultancy services and Energy and related services and Research and development services and related consultancy services and Environmental services",
+                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Research and development services and related consultancy services, Sewage, refuse, cleaning and environmental services",
+                "publishedDate": "2026-08-24T14:55:08+01:00",
+                "deadlineDate": "2026-09-21T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 350000,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-26T15:06:10+01:00",
+                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
+                "sector": null,
+                "cpvCodes": "09000000 71313000 71314000 73000000 90700000",
+                "cpvCodesExtended": "09000000 71000000 71300000 71310000 73000000 90000000",
+                "region": "Uganda",
+                "regionText": "Uganda",
+                "start": "2026-11-01T00:00:00Z",
+                "end": "2027-10-30T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "9126d8e4-bfdf-4158-98df-5b231c717712",
+                "parentId": "86a1dd53-e303-4db1-9ce7-8544a632fffc",
+                "noticeIdentifier": "CF-0012100DQH00000CdCC52AN",
+                "title": "UKRI-6199 UKRI Dementia Challenge Health Economic Services",
+                "description": "UKRI is conducting a further competition under framework reference GCA DPS RM6126 Research and Insights - (Categories - Economics (appraisal and behavioural), Public Health and Long-term illness) to invite offers for the provision of Dementia Challenge Health Economic Services at UKRI. The provision of Health Economic Consulting Services for the Dementia Challenge - Meta-analysis &amp; Real-world Clinical Evaluation Studies (&quot;projects&quot;).\r\n\r\nIt is mandatory that you are already registered supplier on the Dynamic Purchasing System (DPS) through the Government Commercial Agency (GCA) (RM6126, Research &amp; Insights under the filter categories below:\r\nEconomics (appraisal and behavioural), Public Health, Long term illness\r\n\r\nIf you are interested and are registered under the DPS, please follow the instructions below \r\n1. You must be registered on UKRI&#039;s eTendering portal (Atamis).\r\n2. An invite has been sent via Atamis to all suppliers on the framework and category filter\r\n3. Following invitations, you will be notified via Atamis and asked to log in to https://ukri2.my.site.com/login and &#039;Accept&#039; the invite and access documentation. \r\n4. Mini competition direct invitations can be found under &#039;My Proposals &amp;Quotes.\r\n\r\nIf you are not already registered on Atamis and you are on the DPS, please do so via the following link: \r\n1. Atamis Registration Link: https://ukri2.my.site.com/s/Welcome\r\n2. Once registered, please reply to this email MRCProcurement@ukri.org,\r\n3. Following your confirmation of registration, you will be notified via Atamis and asked to log in to https://ukri2.my.site.com/login and &#039;Accept&#039; the invite and access documentation. Mini competition direct invitations can be found under &#039;My Proposals &amp; Quotes.\r\n\r\nImportant:  After registration, all communications including clarifications and submissions must be conducted within the Atamis portal. UKRI will not respond to queries sent outside the portal or beyond the specified deadlines in the Invitation to Tender Pack.",
+                "cpvDescription": "Economic research services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Market and economic research; polling and statistics, Market research services, Survey services",
+                "publishedDate": "2026-08-26T14:36:02+01:00",
+                "deadlineDate": "2026-09-16T15:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 750000,
+                "valueHigh": 750000,
+                "postcode": "SN2 1FL",
+                "coordinates": "51.576361,-1.77433",
+                "isSubNotice": true,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-26T14:40:22+01:00",
+                "organisationName": "UK Research and Innovation",
+                "sector": "",
+                "cpvCodes": "79311400",
+                "cpvCodesExtended": "79000000 79300000 79310000 79311000",
+                "region": "South West",
+                "regionText": "South West",
+                "start": "2026-10-01T00:00:00+01:00",
+                "end": "2029-12-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "450eef92-9734-4e16-aaf9-9fbc0bb0582f",
+                "parentId": null,
+                "noticeIdentifier": "9d70fc18-fcca-46a7-a309-2cfb7fae1099",
+                "title": "CA18386 - Nova Education Trust Tender for the Provision of Inclusion Centres and Behaviour Services",
+                "description": "Nova Education Trust is a forward-thinking multi-academy trust committed to delivering exceptional educational outcomes across its family of Trusts. With a strong presence in the East Midlands, the Trust is driven by a shared vision to create transformational teaching and learning experiences that empower every young learner to thrive. \r\nNova Education Trust is seeking to establish a compliant, scalable and outcome-focused Inclusion Centre service across its family of schools. The Trust is seeking a suitably qualified and experienced provider to deliver, manage and continuously develop Inclusion Centre services across one or more schools within the Trust. The service will provide targeted intervention, behaviour support, pastoral support and reintegration programmes for pupils who are at risk of suspension, permanent exclusion, disengagement from education, poor attendance or other barriers to learning.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18386.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18386 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Health and social work services and Education and training services",
+                "cpvDescriptionExpanded": "Health and social work services, Education and training services",
+                "publishedDate": "2026-08-26T14:00:27+01:00",
+                "deadlineDate": "2026-09-28T10:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 9600000,
+                "valueHigh": 9600000,
+                "postcode": "NG7 2TU",
+                "coordinates": "52.952231,-1.18575",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-08-26T14:00:27+01:00",
+                "organisationName": "Nova Trust",
+                "sector": "",
+                "cpvCodes": "85000000 80000000",
+                "cpvCodesExtended": "85000000 80000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2027-01-01T00:00:00Z",
+                "end": "2029-12-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "67b781d1-0586-4c2b-ae9f-86c4926da9f4",
+                "parentId": null,
+                "noticeIdentifier": "Turing 2026/27",
+                "title": "Leicester College Call for Turing Scheme Partners 2026/27",
+                "description": "In June 2026, Leicester College secured both FE and HE Turing Scheme contracts for 2026/27. To enable selected 2026/27 student cohorts to benefit from overseas further education-based mobility placements, we are currently welcoming applications from experienced and reputable organisations to support us by organising, managing, and delivering these international mobility placements.\r\n\r\nLeicester College intends to contract to one or more providers within the contract period.\r\n\r\nThe anticipated annual value of the services is approximately \u00a325,000 to \u00a3125,000 depending on your capacity, costs and our student volumes.\r\n\r\nTo be considered as a partner organisation we require, as a minimum:\r\n\r\n\uf0a7\tDemonstrable experience of supporting international mobility placements with UK further education students, including apprentices\r\n\uf0a7\tEvidence of working with disadvantaged, underrepresented, and SEND students, with tailored support approaches\r\n\uf0a7\tProvision of high-quality work placements with external employers that enable students to enhance transferable skills and improve educational and career prospects\r\n\uf0a7\tPlacements for 14 or 15 days (with a minimum of 10 work/study days), or at least 7 days for students with SEND\r\n\uf0a7\tPlacements scheduled between 1 October 2026 and 31 August 2027\r\n\uf0a7\tClear understanding of Turing Scheme funding categories and the DfE grant rates for chosen destinations\r\n\r\nLeicester College will consider destinations where partners have strong employer networks and can deliver value for money within DfE funding rates. \r\n\r\nDestinations will be assessed against:\r\n\r\n\uf0a7\tGovernment Foreign, Commonwealth and Development Office (FCDO) travel advice, with particular attention to any regions affected by ongoing political instability or conflict.\r\n\r\n\uf0a7\tCollege risk assessment protocols. For example, the recent Middle East conflict which could affect stopover plans and cause travel disruptions.",
+                "cpvDescription": "Education and training services",
+                "cpvDescriptionExpanded": "Education and training services",
+                "publishedDate": "2026-08-03T11:44:49+01:00",
+                "deadlineDate": "2026-09-14T11:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 25000,
+                "valueHigh": 125000,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-08-26T13:08:23+01:00",
+                "organisationName": "Leicester College",
+                "sector": null,
+                "cpvCodes": "80000000",
+                "cpvCodesExtended": "80000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-10-01T00:00:00+01:00",
+                "end": "2027-08-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "c6e1c7fd-3bfd-4a1f-ac28-bf9297d74962",
                 "parentId": null,
                 "noticeIdentifier": "NTC 07",
@@ -1475,42 +1691,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
                 "start": "2026-10-05T00:00:00+01:00",
                 "end": "2027-01-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "d34191ce-097a-4cbe-8245-70af0072eccd",
-                "parentId": null,
-                "noticeIdentifier": "EDPACT_44",
-                "title": "Unlocking Commercial and Industrial Captive Renewable Energy in Uganda: Market Sizing and Regulatory Reform",
-                "description": "The UK Government&#039;s Partnering for Accelerated Climate Transitions (UK PACT) programme is inviting proposals from qualified suppliers or consortia to deliver technical assistance to Uganda&#039;s Electricity Regulatory Authority (ERA).\r\n\r\nUganda&#039;s electricity sector is predominantly powered by renewable energy and demand is growing rapidly. However, uptake of commercial and industrial (C&amp;I) captive renewable energy remains limited due to regulatory gaps, insufficient market data, and barriers to investment. This is particularly significant given the growing role of behind-the-meter renewable energy as a means of reducing diesel reliance, improving energy security, and supporting economic growth.\r\n\r\nThe assignment will support ERA, in partnership with the Ministry of Energy and Mineral Development (MEMD) and electricity distributors UEDCL, WENRECO and KIS, to strengthen the enabling environment for C&amp;I captive renewable energy. The work will establish an evidence base on market demand, existing captive generation and grid capacity, review Uganda&#039;s regulatory framework and international best practice, and develop targeted regulatory and market-enabling solutions.\r\n\r\nKey outputs are expected to include recommendations for a mid-tier regulatory framework, updated settlement and implementation guidance, standardised commercial documentation, and financing pathways to improve project bankability. The project aims to increase private-sector investment in captive renewable energy, accelerate deployment, reduce dependence on diesel generation, and strengthen Uganda&#039;s energy security and grid resilience.\r\n\r\nInterested suppliers are invited to review the documentation provided in this notice, and submit their applications to: targetedfund@ukpact.co.uk",
-                "cpvDescription": "Petroleum products, fuel, electricity and other sources of energy and Environmental engineering consultancy services and Energy and related services and Research and development services and related consultancy services and Environmental services",
-                "cpvDescriptionExpanded": "Petroleum products, fuel, electricity and other sources of energy, Architectural, construction, engineering and inspection services, Engineering services, Consultative engineering and construction services, Research and development services and related consultancy services, Sewage, refuse, cleaning and environmental services",
-                "publishedDate": "2026-08-24T14:55:08+01:00",
-                "deadlineDate": "2026-09-21T17:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 350000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-08-24T14:55:08+01:00",
-                "organisationName": "PALLADIUM INTERNATIONAL LIMITED",
-                "sector": null,
-                "cpvCodes": "09000000 71313000 71314000 73000000 90700000",
-                "cpvCodesExtended": "09000000 71000000 71300000 71310000 73000000 90000000",
-                "region": "Uganda",
-                "regionText": "Uganda",
-                "start": "2026-11-01T00:00:00Z",
-                "end": "2027-10-30T00:00:00+01:00"
             }
         },
         {
@@ -1912,42 +2092,6 @@
         {
             "score": 1,
             "item": {
-                "id": "67b781d1-0586-4c2b-ae9f-86c4926da9f4",
-                "parentId": null,
-                "noticeIdentifier": "Turing 2026/27",
-                "title": "Leicester College Call for Turing Scheme Partners 2026/27",
-                "description": "In June 2026, Leicester College secured both FE and HE Turing Scheme contracts for 2026/27. To enable selected 2026/27 student cohorts to benefit from overseas further education-based mobility placements, we are currently welcoming applications from experienced and reputable organisations to support us by organising, managing, and delivering these international mobility placements.\r\n\r\nLeicester College intends to contract to one or more providers within the contract period.\r\n\r\nThe anticipated annual value of the services is approximately &#xA3;25,000 to &#xA3;125,000 depending on your capacity, costs and our student volumes.\r\n\r\nTo be considered as a partner organisation we require, as a minimum:\r\n\r\n\uf0a7\tDemonstrable experience of supporting international mobility placements with UK further education students, including apprentices\r\n\uf0a7\tEvidence of working with disadvantaged, underrepresented, and SEND students, with tailored support approaches\r\n\uf0a7\tProvision of high-quality work placements with external employers that enable students to enhance transferable skills and improve educational and career prospects\r\n\uf0a7\tPlacements for 14 or 15 days (with a minimum of 10 work/study days), or at least 7 days for students with SEND\r\n\uf0a7\tPlacements scheduled between 1 October 2026 and 31 August 2027\r\n\uf0a7\tClear understanding of Turing Scheme funding categories and the DfE grant rates for chosen destinations\r\n\r\nLeicester College will consider destinations where partners have strong employer networks and can deliver value for money within DfE funding rates. \r\n\r\nDestinations will be assessed against:\r\n\r\n\uf0a7\tGovernment Foreign, Commonwealth and Development Office (FCDO) travel advice, with particular attention to any regions affected by ongoing political instability or conflict.\r\n\r\n\uf0a7\tCollege risk assessment protocols. For example, the recent Middle East conflict which could affect stopover plans and cause travel disruptions.",
-                "cpvDescription": "Education and training services",
-                "cpvDescriptionExpanded": "Education and training services",
-                "publishedDate": "2026-08-03T11:44:49+01:00",
-                "deadlineDate": "2026-09-14T11:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 25000,
-                "valueHigh": 125000,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-08-03T11:44:49+01:00",
-                "organisationName": "Leicester College",
-                "sector": null,
-                "cpvCodes": "80000000",
-                "cpvCodesExtended": "80000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-                "start": "2026-10-01T00:00:00+01:00",
-                "end": "2027-08-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "40e05dc1-8f9a-43c4-80a5-3a7d35e68220",
                 "parentId": null,
                 "noticeIdentifier": "FEDCAP_FES_EOI",
@@ -1979,114 +2123,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
                 "start": "",
                 "end": ""
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "6d776ec2-0fa8-4050-b684-b33e84442eee",
-                "parentId": null,
-                "noticeIdentifier": "de058cf9-e64e-4244-abb4-f1cc83d38a00",
-                "title": "CA18295 - RFQ2026/29 - NMANDD PEACEPLUS Thriving Together - Minority Community Integration programme: Colours of Asia for the Newry, Mourne and Down District Council area.",
-                "description": "Competent consultancy companies are hereby invited to tender to design, develop and deliver a structured programme celebrating Diwali - the Hindu Festival of Lights.  The project will include a programme of interactive workshops, cultural exchange sessions, and celebration activities and will be delivered in partnership with the Indian community in Crotlieve DEA.  \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18295.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18295 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Other community, social and personal services and Recreational, cultural and sporting services and Education and training services",
-                "cpvDescriptionExpanded": "Other community, social and personal services, Recreational, cultural and sporting services, Education and training services",
-                "publishedDate": "2026-07-30T11:03:20+01:00",
-                "deadlineDate": "2026-08-27T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 10153.62,
-                "valueHigh": 10153.62,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-30T11:03:20+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "98000000 92000000 80000000",
-                "cpvCodesExtended": "98000000 92000000 80000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-09-28T00:00:00+01:00",
-                "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "763c400f-ec7e-4635-bf50-7590527c6531",
-                "parentId": null,
-                "noticeIdentifier": "8802e056-1d1c-413a-ad3f-2678bc41c8b0",
-                "title": "CA18294 - RFQ 2026/27 - NMANDD PEACEPLUS &quot;Thriving Together&quot; - PEACEPLUS 3.2 Arabic Learning Hub",
-                "description": "Competent consultancy organisations are invited to tender for the design and delivery of an Arabic Language and Cultural Heritage Programme. This project will engage children from Arabic-speaking, Arabic heritage, and wider local community backgrounds across the Newry, Mourne and Down area through interactive language-learning activities, storytelling, creative arts, cultural exploration, and educational workshops.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18294.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18294 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-                "cpvDescription": "Education and training services and Other community, social and personal services and Recreational, cultural and sporting services",
-                "cpvDescriptionExpanded": "Education and training services, Other community, social and personal services, Recreational, cultural and sporting services",
-                "publishedDate": "2026-07-29T10:30:19+01:00",
-                "deadlineDate": "2026-08-26T12:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 10155,
-                "valueHigh": 10155,
-                "postcode": "BT34 2QU",
-                "coordinates": "54.151208,-6.115586",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-29T10:30:19+01:00",
-                "organisationName": "Newry, Mourne and Down District Council (NMD)",
-                "sector": "",
-                "cpvCodes": "80000000 98000000 92000000",
-                "cpvCodesExtended": "80000000 98000000 92000000",
-                "region": "Any region",
-                "regionText": "Any region",
-                "start": "2026-09-14T00:00:00+01:00",
-                "end": "2026-12-31T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "a24be143-484e-4157-9ced-48af30109a0a",
-                "parentId": null,
-                "noticeIdentifier": "BIP1053527067",
-                "title": "OPENING ADULT LEARNING SERVICE PSEUDO-FRAMEWORK FOR DELIVERY PARTNERS 2023-2028",
-                "description": "Kensington and Chelsea&#039;s Adult Learning Service is seeking organisations who deliver adult and family learning to join the Pseudo-Framework (5-year framework) for the remaining period until 31 July 2028. \r\n      \r\n      The Service is keen to engage with a wide range of providers who are able to deliver adult and family learning opportunities at a variety of locations in the borough, meeting the broad range of needs and residents across this diverse borough. \r\n      \r\n      Once accepted onto the framework providers will be invited to apply for funding to deliver adult and family learning courses in borough through call-offs against the curriculum specification.",
-                "cpvDescription": "Education and training services",
-                "cpvDescriptionExpanded": "Education and training services",
-                "publishedDate": "2026-07-28T16:00:04+01:00",
-                "deadlineDate": "2026-08-27T10:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 294000,
-                "valueHigh": 0,
-                "postcode": "",
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-07-28T16:00:04+01:00",
-                "organisationName": "THE ROYAL BOROUGH OF KENSINGTON  AND CHELSEA",
-                "sector": "",
-                "cpvCodes": "80000000",
-                "cpvCodesExtended": "80000000",
-                "region": "London",
-                "regionText": "London",
-                "start": "2026-09-30T00:00:00+01:00",
-                "end": "2028-07-31T00:00:00+01:00"
             }
         },
         {
@@ -3103,7 +3139,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "34"
+                "value": "33"
             },
             {
                 "key": "Australia",
@@ -3174,6 +3210,10 @@
                 "value": "1"
             },
             {
+                "key": "Cameroon",
+                "value": "2"
+            },
+            {
                 "key": "Central African Republic",
                 "value": "2"
             },
@@ -3223,7 +3263,7 @@
             },
             {
                 "key": "London",
-                "value": "37"
+                "value": "36"
             },
             {
                 "key": "South East",
@@ -3231,7 +3271,7 @@
             },
             {
                 "key": "South West",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "Estonia",
@@ -3406,6 +3446,10 @@
                 "value": "2"
             },
             {
+                "key": "Madagascar",
+                "value": "2"
+            },
+            {
                 "key": "Mali",
                 "value": "2"
             },
@@ -3419,7 +3463,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "23"
+                "value": "24"
             },
             {
                 "key": "Oman",
@@ -3531,10 +3575,6 @@
             },
             {
                 "key": "Cambodia",
-                "value": "1"
-            },
-            {
-                "key": "Cameroon",
                 "value": "1"
             },
             {
@@ -3759,10 +3799,6 @@
             },
             {
                 "key": "Macao",
-                "value": "1"
-            },
-            {
-                "key": "Madagascar",
                 "value": "1"
             },
             {
@@ -4136,7 +4172,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "87"
+                "value": "89"
             },
             {
                 "key": "Pipeline",
@@ -4153,7 +4189,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "95"
+                "value": "97"
             },
             {
                 "key": "Closed",

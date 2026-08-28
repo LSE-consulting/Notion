@@ -1,5 +1,5 @@
 {
-    "hitCount": 97,
+    "hitCount": 95,
     "noticeList": [
         {
             "score": 1,
@@ -1840,42 +1840,6 @@
         {
             "score": 1,
             "item": {
-                "id": "2df82153-5a38-4ae5-b3ca-e3405eea6665",
-                "parentId": null,
-                "noticeIdentifier": "NWNZH_CESC",
-                "title": "Regional Clean Energy Skills Coordination and Action Planning",
-                "description": "Enterprise Cheshire and Warrington (ECW), working alongside the Department for Energy Security and Net Zero (DESNZ) and the North West Net Zero Hub (NWNZH) is seeking to appoint an individual consultant or small group of consultants to oversee the implementation of the Clean Energy Skills Regional Action Plan (CESRAP), and in partnership with relevant neighbouring regions. \r\n\r\nThe CESRAP brings together evidence from extensive stakeholder consultation, employer engagement, provider input, and regional modelling to identify where demand for clean energy skills is growing most quickly and where the provision is already strong. It identifies an urgent need to intervene in the skills ecosystem so that local people, employers, and their supply chains can develop the skills needed to benefit from the transition to clean energy to meet a significant increase in demand in 2030 and beyond.\r\n\r\nIt sets out recommendations for local leaders and policymakers, proposals for a near-term programme of skills interventions, and a framework for long-term collaboration to enable joined-up local delivery of the Government's Clean Energy Jobs Plan . \r\n\r\nIt is intended to be a practical, living framework that can guide immediate implementation, support regional collaboration, and adapt as policy, investment pipelines, and labour market conditions evolve. ECW is seeking consultancy support to implement the plan in the period up to March 31st, 2027.\r\n\r\nThe work is funded by The North West Net Zero Hub. The consultant/s will need to identify one to two people who will be available to act as the Regional Lead for an agreed number of days per week, for the length of the project.",
-                "cpvDescription": "Research services and Research consultancy services",
-                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Research and experimental development services, Research and development consultancy services",
-                "publishedDate": "2026-08-05T15:05:38+01:00",
-                "deadlineDate": "2026-08-28T17:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 80000,
-                "valueHigh": 0,
-                "postcode": "CW7 1AH",
-                "coordinates": "53.173027,-2.541495",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": true,
-                "lastNotifableUpdate": "2026-08-18T14:47:58+01:00",
-                "organisationName": "ENTERPRISE CHESHIRE AND WARRINGTON",
-                "sector": null,
-                "cpvCodes": "73110000 73210000",
-                "cpvCodesExtended": "73000000 73100000 73200000",
-                "region": "",
-                "regionText": "",
-                "start": "2026-09-07T00:00:00+01:00",
-                "end": "2027-03-31T00:00:00+01:00"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
                 "id": "88225ba5-5df1-471f-a268-3b65905781f0",
                 "parentId": null,
                 "noticeIdentifier": "fc553d1c-1cac-4642-b1f6-4efae5791f9a",
@@ -2123,42 +2087,6 @@
                 "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
                 "start": "",
                 "end": ""
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "c137566d-bebf-48af-89e0-fade82e1d10c",
-                "parentId": null,
-                "noticeIdentifier": "ESOP1000123",
-                "title": "National Trust - NI- Independent Quality Assurance Process for Lough Neagh Roadmap to Recovery",
-                "description": "The Trust, on behalf of the Forever Lough Neagh Collaborators, is seeking proposals from suitably experienced facilitators, organisations, or partnerships to design and deliver an independent Quality Assurance (QA) process to support the development of Lough Neagh: A Roadmap to Recovery.\r\n\r\nRunning alongside a multidisciplinary consultancy commissioned to develop the Roadmap, the QA process will provide robust scrutiny through structured peer review and public review panels. The successful contractor will establish and facilitate a framework to assess and challenge emerging recommendations, ensuring they are evidence-based, technically sound, inclusive, transparent, and informed by community perspectives.\r\n\r\nThe contract is expected to commence in September/October 2026 and run for 12 months, subject to funding availability. Tenderers should note that costs submitted must remain valid for up to six months should commencement be delayed to allow for fundraising.\r\n\r\nThis QA process is a key element in ensuring the integrity, credibility, and long-term legitimacy of the Roadmap to Recovery for Lough Neagh.\r\n\r\n14/08/26 - Clarification Window Closes\r\n28/08/26 - Return of RFP \r\n15/09/26 - Anticipated Contract Start Date \r\n\r\nThe tender is being conducted via the Proactis Plaza portal.\r\n\r\nhttp://www.proactisplaza.com/\r\n\r\nSearch for The National Trust in the opportunities section and follow the instructions",
-                "cpvDescription": "Development consultancy services and Business and management consultancy and related services",
-                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Research and development consultancy services, Business services: law, marketing, consulting, recruitment, printing and security",
-                "publishedDate": "2026-07-24T16:00:32+01:00",
-                "deadlineDate": "2026-08-28T17:00:00+01:00",
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": null,
-                "valueLow": 50000,
-                "valueHigh": 0,
-                "postcode": null,
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Contract",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2026-07-24T16:00:32+01:00",
-                "organisationName": "THE NATIONAL TRUST FOR PLACES OF HISTORIC INTEREST OR NATURAL BEAUTY",
-                "sector": null,
-                "cpvCodes": "73220000 79400000",
-                "cpvCodesExtended": "73000000 73200000 79000000",
-                "region": "Northern Ireland",
-                "regionText": "Northern Ireland",
-                "start": "2026-09-15T00:00:00+01:00",
-                "end": "2027-09-15T00:00:00+01:00"
             }
         },
         {
@@ -3463,7 +3391,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "24"
+                "value": "23"
             },
             {
                 "key": "Oman",
@@ -4172,7 +4100,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "89"
+                "value": "87"
             },
             {
                 "key": "Pipeline",
@@ -4189,7 +4117,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "97"
+                "value": "95"
             },
             {
                 "key": "Closed",

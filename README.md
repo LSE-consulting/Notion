@@ -136,15 +136,6 @@ Nothing is permanently lost either. Each source looks back over the last few day
 
 A run of consecutive red crosses like this is the signal to act. It usually means a source website has changed how it publishes data, or the Notion connection has stopped working. See the next section.
 
-Rule of thumb:
-
-| Pattern | Action |
-|---|---|
-| One failure, next run green | None |
-| Two failures in a row | Keep an eye on the next run |
-| Three or more in a row | Investigate, or pass to a developer |
-| Every step failing in the same run | Check the Notion connection first |
-
 ---
 
 ## When something goes wrong
@@ -321,12 +312,3 @@ Each website is self-contained, so adding another follows the existing pattern:
 `Sources/World Bank` and `Sources/IDB` are the cleanest templates to copy from.
 
 ---
-
-## Escalating to a developer
-
-Include the following, which is enough to diagnose most problems without repository access:
-
-- A link to the failed run from the Actions tab
-- Which step failed, by name
-- How many runs in a row have failed
-- The last 20 lines of the failed step's log

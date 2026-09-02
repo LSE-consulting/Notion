@@ -1,5 +1,5 @@
 {
-    "hitCount": 89,
+    "hitCount": 90,
     "noticeList": [
         {
             "score": 1,
@@ -215,6 +215,42 @@
                 "regionText": "West Midlands",
                 "start": "2026-12-06T00:00:00Z",
                 "end": "2026-12-07T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "6bfb9856-6d13-4486-bc9e-264d42836129",
+                "parentId": null,
+                "noticeIdentifier": "1151ee7c-9267-4fe7-92e4-fe1daffac6c6",
+                "title": "CA18406 - Tender 48/2026 - Facilitation for Mourne Gullion Strangford Sustainable Tourism Network Development Programme",
+                "description": "The Sustainable Tourism Network Development Programme shall be delivered over an 17-month period through a phased approach designed to build stakeholder engagement, establish a robust governance framework, and support the long-term development of a sustainable tourism model for the Mourne Gullion Strangford destination.\r\n\r\nThe phased approach recognises the need to first engage and build consensus amongst tourism businesses, tourism communities and relevant stakeholders before progressing to the development and implementation of practical sustainability initiatives, monitoring frameworks and pilot projects.\r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18406.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18406 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Business and management consultancy and related services and Travel agency, tour operator and tourist assistance services",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security, Supporting and auxiliary transport services; travel agencies services",
+                "publishedDate": "2026-09-02T11:18:22+01:00",
+                "deadlineDate": "2026-09-16T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 95000,
+                "valueHigh": 95000,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-09-02T11:18:22+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "79400000 63500000",
+                "cpvCodesExtended": "79000000 63000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-11-02T00:00:00Z",
+                "end": "2028-03-31T00:00:00+01:00"
             }
         },
         {
@@ -503,42 +539,6 @@
                 "regionText": "Any region",
                 "start": "2029-02-25T00:00:00Z",
                 "end": "2029-02-26T00:00:00Z"
-            }
-        },
-        {
-            "score": 1,
-            "item": {
-                "id": "af413951-f8a4-46ab-99e9-98626acaa21b",
-                "parentId": null,
-                "noticeIdentifier": "DVNCC001-DN752584-53036341",
-                "title": "CP2545-24 School Meal Vouchers",
-                "description": "Devon County Council (DCC) requires a Service contract for a prepaid closed-loop voucher solution in order to issue free school meal vouchers to eligible families in Devon. This is a nil-cost contract to DCC. Funds are received from central Government and subsequently distributed to qualifying recipients as voucher codes that can be spent in a range of supermarkets, thereby helping to combat child poverty in the region.",
-                "cpvDescription": "Financial and insurance services",
-                "cpvDescriptionExpanded": "Financial and insurance services",
-                "publishedDate": "2024-11-19T10:03:59Z",
-                "deadlineDate": null,
-                "awardedDate": null,
-                "awardedValue": 0,
-                "awardedSupplier": null,
-                "approachMarketDate": "2026-09-01T23:59:59+01:00",
-                "valueLow": 9000000,
-                "valueHigh": 9000000,
-                "postcode": "",
-                "coordinates": "0,0",
-                "isSubNotice": false,
-                "noticeType": "Pipeline",
-                "noticeStatus": "Open",
-                "isSuitableForSme": true,
-                "isSuitableForVco": false,
-                "lastNotifableUpdate": "2024-11-19T10:03:59Z",
-                "organisationName": "Devon County Council",
-                "sector": "",
-                "cpvCodes": "66000000",
-                "cpvCodesExtended": "66000000",
-                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-                "start": "2024-11-11T00:00:00Z",
-                "end": "2026-11-10T00:00:00Z"
             }
         },
         {
@@ -2851,7 +2851,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "31"
+                "value": "32"
             },
             {
                 "key": "Australia",
@@ -2943,11 +2943,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "33"
+                "value": "32"
             },
             {
                 "key": "East of England",
-                "value": "34"
+                "value": "33"
             },
             {
                 "key": "Egypt",
@@ -2959,31 +2959,31 @@
             },
             {
                 "key": "North East",
-                "value": "33"
+                "value": "32"
             },
             {
                 "key": "North West",
-                "value": "34"
+                "value": "33"
             },
             {
                 "key": "Yorkshire and The Humber",
-                "value": "40"
+                "value": "39"
             },
             {
                 "key": "West Midlands",
-                "value": "38"
+                "value": "37"
             },
             {
                 "key": "London",
-                "value": "35"
+                "value": "34"
             },
             {
                 "key": "South East",
-                "value": "36"
+                "value": "35"
             },
             {
                 "key": "South West",
-                "value": "34"
+                "value": "33"
             },
             {
                 "key": "Estonia",
@@ -3179,6 +3179,10 @@
             },
             {
                 "key": "Oman",
+                "value": "2"
+            },
+            {
+                "key": "Pakistan",
                 "value": "2"
             },
             {
@@ -3614,10 +3618,6 @@
                 "value": "1"
             },
             {
-                "key": "Pakistan",
-                "value": "1"
-            },
-            {
                 "key": "Palau",
                 "value": "1"
             },
@@ -3884,11 +3884,11 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "83"
+                "value": "85"
             },
             {
                 "key": "Pipeline",
-                "value": "2"
+                "value": "1"
             },
             {
                 "key": "PreProcurement",
@@ -3901,7 +3901,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "89"
+                "value": "90"
             },
             {
                 "key": "Closed",

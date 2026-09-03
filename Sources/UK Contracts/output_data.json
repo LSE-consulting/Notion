@@ -1,5 +1,5 @@
 {
-    "hitCount": 90,
+    "hitCount": 95,
     "noticeList": [
         {
             "score": 1,
@@ -148,6 +148,42 @@
         {
             "score": 1,
             "item": {
+                "id": "de13bdf6-ada6-48ed-8f0b-d85de71628e4",
+                "parentId": null,
+                "noticeIdentifier": "ING HAAS NCLMI 2026",
+                "title": "National Clinical Labour Market Intelligence",
+                "description": "Ingeus is seeking suitably experienced suppliers to provide labour market intelligence that provides real-time geographical, talent and competitor insights.\r\n\r\nWe are looking to partner with a provider of market intelligence within the *clinical labour market to support our existing candidate attraction and resourcing strategy.  \r\n\r\n*specifically: Registered Occupational Therapists, Nurses, Paramedics, Physiotherapists and Pharmacists.\r\n\r\nSuppliers wishing to be considered should submit a short written response setting out:\r\n\u2022\tDetailed scope of market intelligence offered.\r\n\u2022\tGeographies it relates to.\r\n\u2022\tClinical professions it relates to.\r\n\u2022\tCost model.\r\n\r\nResponses and any enquiries should be submitted by email by the closing date stated above, with &quot;National Clinical Labour Market Intelligence&quot; in the subject field",
+                "cpvDescription": "Market and economic research; polling and statistics",
+                "cpvDescriptionExpanded": "Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-09-03T12:26:18+01:00",
+                "deadlineDate": "2026-09-14T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 20000,
+                "valueHigh": 25000,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-09-03T12:26:18+01:00",
+                "organisationName": "Ingeus",
+                "sector": null,
+                "cpvCodes": "79300000",
+                "cpvCodesExtended": "79000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "2026-09-20T00:00:00+01:00",
+                "end": "2027-09-19T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
                 "id": "6752c8f6-5aa4-43ee-8d67-111202eadb43",
                 "parentId": null,
                 "noticeIdentifier": "IT-100-3997-P0915",
@@ -251,6 +287,42 @@
                 "regionText": "Any region",
                 "start": "2026-11-02T00:00:00Z",
                 "end": "2028-03-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "70ac7412-d465-4368-b270-8f67608978f0",
+                "parentId": null,
+                "noticeIdentifier": "fa35b7d5-f56e-4fae-9445-66443725eebd",
+                "title": "CA18414 - King&#039;s Trust DBS and Vetting Services",
+                "description": "The services comprise of conducting all our criminal record checks across England, Wales, Scotland, Northern Ireland and Internationally, along with carrying out our pre-employment reference checks and right to work checks for staff.  \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18414.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18414 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Financial and insurance services and IT services: consulting, software development, Internet and support and Software package and information systems and Personnel and payroll services",
+                "cpvDescriptionExpanded": "Financial and insurance services, IT services: consulting, software development, Internet and support, Software package and information systems, Business services: law, marketing, consulting, recruitment, printing and security, Recruitment services, Personnel services except placement and supply services",
+                "publishedDate": "2026-09-03T12:24:10+01:00",
+                "deadlineDate": "2026-09-29T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 65000,
+                "valueHigh": 65000,
+                "postcode": "SE1 8EG",
+                "coordinates": "51.495933,-0.093868",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-09-03T12:24:10+01:00",
+                "organisationName": "The King&#039;s Trust",
+                "sector": "",
+                "cpvCodes": "66000000 72000000 48000000 79631000",
+                "cpvCodesExtended": "66000000 72000000 48000000 79000000 79600000 79630000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2027-01-31T00:00:00Z",
+                "end": "2028-01-30T00:00:00Z"
             }
         },
         {
@@ -1259,6 +1331,114 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "df66d799-711f-4dab-ab55-65628722fde6",
+                "parentId": null,
+                "noticeIdentifier": "d74ab88b-5e7f-4189-abe7-4a94ba02a292",
+                "title": "CA18415 - RFQ2026/33 - NMANDD PEACEPLUS Thriving Together  PEACEPLUS 3.2 Creative Cultures After school",
+                "description": "Competent consultancy organisations are invited to tender for the design and delivery of a culturally focused integration programme for Key Stage 3 pupils in the Slieve Croob DEA. This initiative will bring together young people from diverse cultural backgrounds, including those from minority ethnic communities, to promote inclusion, intercultural understanding and positive relationships.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18415.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18415 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+                "cpvDescription": "Recreational, cultural and sporting services and Education and training services and Other community, social and personal services",
+                "cpvDescriptionExpanded": "Recreational, cultural and sporting services, Education and training services, Other community, social and personal services",
+                "publishedDate": "2026-09-03T14:15:22+01:00",
+                "deadlineDate": "2026-10-01T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 10153.62,
+                "valueHigh": 10153.62,
+                "postcode": "BT34 2QU",
+                "coordinates": "54.151208,-6.115586",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-09-03T14:15:22+01:00",
+                "organisationName": "Newry, Mourne and Down District Council (NMD)",
+                "sector": "",
+                "cpvCodes": "92000000 80000000 98000000",
+                "cpvCodesExtended": "92000000 80000000 98000000",
+                "region": "Any region",
+                "regionText": "Any region",
+                "start": "2026-10-15T00:00:00+01:00",
+                "end": "2026-12-31T00:00:00Z"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "07738365-eeb7-4f36-a933-8e339655840d",
+                "parentId": null,
+                "noticeIdentifier": "C&amp;W_OWP",
+                "title": "Cheshire and Warrington Outline Water Plan",
+                "description": "The newly established Cheshire and Warrington Combined Authority (CWCA) has recently stated its intention to commission an Independent Economic Review (IER) for the subregion - setting out the evidence for the opportunities for and constraints on local growth. In support of this, it is vital to better understand where water infrastructure may require upgrades to support local ambition, and how we can better work together to ensure that flooding and drought are not impediments to growth whilst ensuring that wider ecosystem services and farming resilience are better supported.\r\n\r\nSimultaneously, the Water White Paper published in January 2026 committed Government to act on the Independent Water Commission recommendation, setting up Regional Systems Planning in England. DEFRA have set out an intention to pilot this through Regional System Planners (RSPs), established across each region of England with the aim of influencing both PR29 and other water system investment plans. Defra are keen for partnerships to pilot RSP governance and structures during this set-up year. and have set out that they only intend to provide high level direction on form. Within this context there is a significant opportunity to influence water planning, and ensure alignment with local growth and wider environmental ambitions. \r\n\r\nTo support the IER along with engagement with the establishing North West RSP, ECW is seeking to appoint consultants to develop a strategic, place based evidence base and outline water plan that sits between national/regional water planning processes and local spatial, economic, and infrastructure planning.",
+                "cpvDescription": "Research services and Research consultancy services",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Research and experimental development services, Research and development consultancy services",
+                "publishedDate": "2026-09-03T10:47:04+01:00",
+                "deadlineDate": "2026-09-24T17:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 80000,
+                "valueHigh": 0,
+                "postcode": "CW7 1AH",
+                "coordinates": "53.173027,-2.541495",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-09-03T10:49:59+01:00",
+                "organisationName": "ENTERPRISE CHESHIRE AND WARRINGTON",
+                "sector": null,
+                "cpvCodes": "73110000 73210000",
+                "cpvCodesExtended": "73000000 73100000 73200000",
+                "region": "",
+                "regionText": "",
+                "start": "2026-10-05T00:00:00+01:00",
+                "end": "2027-03-31T00:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "d6ab077d-057e-46bc-9f80-eb011a6b2a49",
+                "parentId": null,
+                "noticeIdentifier": "WWF/CF27/001",
+                "title": "Seafood Jurisdictional Initiative",
+                "description": "Dear Supplier,\r\n\r\nWWF-UK is seeking a supplier to deliver the services outlined in the attached Tender Specification.\r\n\r\nPlease review the Tender Specification and contact WWF-UK if you would like to submit a proposal. Submissions are made entirely through our procurement platform, Coupa. Depending on the tender requirements, you may be asked to provide forms, attachments, pricing information, and/or details about your products or services.\r\n\r\nPlease express your interest in submitting a proposal by 13th September 2026. After this date you will receive tender invite from WWF procurement platform, Coupa.\r\n\r\nIf you have any questions regarding the tender, please contact Alice Chamberlain at AChamberlain@wwf.org.uk\r\n\r\nBest regards,\r\nWWF-UK Procurement Team",
+                "cpvDescription": "Research services",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Research and experimental development services",
+                "publishedDate": "2026-09-03T10:29:15+01:00",
+                "deadlineDate": "2026-09-13T23:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": null,
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": true,
+                "lastNotifableUpdate": "2026-09-03T10:29:15+01:00",
+                "organisationName": "WWF-UK (WORLD WIDE FUND FOR NATURE) TRADING LIMITED",
+                "sector": null,
+                "cpvCodes": "73110000",
+                "cpvCodesExtended": "73000000 73100000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+                "start": "2026-10-12T00:00:00+01:00",
+                "end": "2026-12-08T00:00:00Z"
             }
         },
         {
@@ -2851,7 +3031,7 @@
         "items": [
             {
                 "key": "Any region",
-                "value": "32"
+                "value": "34"
             },
             {
                 "key": "Australia",
@@ -2943,11 +3123,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "32"
+                "value": "34"
             },
             {
                 "key": "East of England",
-                "value": "33"
+                "value": "35"
             },
             {
                 "key": "Egypt",
@@ -2959,31 +3139,31 @@
             },
             {
                 "key": "North East",
-                "value": "32"
-            },
-            {
-                "key": "North West",
-                "value": "33"
-            },
-            {
-                "key": "Yorkshire and The Humber",
-                "value": "39"
-            },
-            {
-                "key": "West Midlands",
-                "value": "37"
-            },
-            {
-                "key": "London",
                 "value": "34"
             },
             {
-                "key": "South East",
+                "key": "North West",
                 "value": "35"
             },
             {
+                "key": "Yorkshire and The Humber",
+                "value": "41"
+            },
+            {
+                "key": "West Midlands",
+                "value": "39"
+            },
+            {
+                "key": "London",
+                "value": "36"
+            },
+            {
+                "key": "South East",
+                "value": "37"
+            },
+            {
                 "key": "South West",
-                "value": "33"
+                "value": "35"
             },
             {
                 "key": "Estonia",
@@ -3175,7 +3355,7 @@
             },
             {
                 "key": "Northern Ireland",
-                "value": "24"
+                "value": "25"
             },
             {
                 "key": "Oman",
@@ -3871,11 +4051,11 @@
             },
             {
                 "key": "Scotland",
-                "value": "25"
+                "value": "26"
             },
             {
                 "key": "Wales",
-                "value": "25"
+                "value": "26"
             }
         ],
         "other": 0
@@ -3884,7 +4064,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "85"
+                "value": "90"
             },
             {
                 "key": "Pipeline",
@@ -3901,7 +4081,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "90"
+                "value": "95"
             },
             {
                 "key": "Closed",

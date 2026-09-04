@@ -1,5 +1,5 @@
 {
-    "hitCount": 95,
+    "hitCount": 97,
     "noticeList": [
         {
             "score": 1,
@@ -1331,6 +1331,78 @@
                 "regionText": "Any region",
                 "start": "2027-08-24T01:00:00+01:00",
                 "end": "2027-08-25T01:00:00+01:00"
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "6a7c818a-2df4-4b60-b934-4c48a9f9ea3f",
+                "parentId": null,
+                "noticeIdentifier": "n / a",
+                "title": "SDA Capability Map 2026 update",
+                "description": "Note, this activity is not directly related to a specific procurement and any information provided are without commitment and prejudice for all parties. Therefore, there will not be a contract issued following this exercise. \r\n\r\nThe purpose of this spreadsheet is to understand how different systems, sensors, products and data solutions provided by industry could address the UK Cross-Government SDA requirements. This may help to inform the potential contributions to a UK SDA Systems of Systems that will address these requirements operationally.  UK government will use the data provided in the creation of a Capability Map, allowing analysis of current UK capabilities against the requirement set, including consideration of how commercial offerings could close gaps. Furthermore, gap analysis on the full Capability Map will allow UK government to identify areas where further research and development activity may be required, when no sovereign or commercial offerings are available to meet a requirement.  \r\n\r\nWith the 2026 update to the SDA Requirements, and in order to keep the Capability Map current, this RFI activity is a continuation of the previous call  and will likely be repeated in the future. This RFI provides the standardised format for commercial to demonstrate current capabilities and reflect growth, and UK government to track the health of  the sector and available capabilities.  \r\n\r\nWe ask that respondees complete the spreadsheet for the systems etc they offer. This may require multiple returns, depending on the commercial capability. If you have responded to a previous call please do so again with your current capabilities. Note, this activity is not directly related to a specific procurement and any information provided are without commitment and prejudice for all parties.  \r\n\r\nAll information provided in this data collection exercise will remain confidential, in-line with the Civil Service Code, with access granted only to UK Government departments and agencies. \r\n\r\nWhere specific handling is required please do note this in the spreadsheet in the &quot;Comments on Data Handling&quot; section.   \r\n\r\nPlease keep all data entry at no higher than UK OFFICIAL. All returns will be treated as UK OFFICIAL-SENSITIVE COMMERCIAL. Please do let us know if you have information you would like to share at a higher classification and we can facilitate this.  \r\n\r\nPlease submit your responses to ssa@dstl.gov.uk",
+                "cpvDescription": "Research and development services and related consultancy services",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services",
+                "publishedDate": "2026-09-03T19:09:44+01:00",
+                "deadlineDate": "2026-10-31T23:59:59Z",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 0,
+                "valueHigh": 0,
+                "postcode": "SP40JQ",
+                "coordinates": "51.160723,-1.741559",
+                "isSubNotice": false,
+                "noticeType": "PreProcurement",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-09-04T12:30:46+01:00",
+                "organisationName": "Defence Science and Technology Laboratory",
+                "sector": null,
+                "cpvCodes": "73000000",
+                "cpvCodesExtended": "73000000",
+                "region": "",
+                "regionText": "",
+                "start": "",
+                "end": ""
+            }
+        },
+        {
+            "score": 1,
+            "item": {
+                "id": "c684c2d3-71be-4a22-bea1-56816b71f563",
+                "parentId": null,
+                "noticeIdentifier": "RBH001-DN828366-38984581",
+                "title": "Non-Domestic EPCs",
+                "description": "Non-Domestic EPCs\r\n\r\nRBH are looking for a supplier that can carry out non-domestic Energy Performance Certificates (EPC&#039;s) for properties within the society&#039;s portfolio.  This will include but is not limited to shops, community centres, community bases, offices, stores. \r\nIn carrying out this service, RBH will require\r\n\u2022\tA prompt response/acknowledgement to email instructions (within 2 working days).\r\n\u2022\tTo arrange appointments directly with customer (if occupied) within 2 working days of instruction. \r\n\u2022\tPrompt collection and return of keys from RBH office/hubs within the following postcode areas (OL10, OL11, OL12, OL15, OL16, M24, BL9).\r\n\u2022\tEPC lodgement within 5 days of access to the property.\r\n\u2022\tProvide link to lodged EPC and copy of XML file via email within 5 working days of EPC lodgement.\r\n",
+                "cpvDescription": "Research and development services and related consultancy services and Administration, defence and social security services and Business services: law, marketing, consulting, recruitment, printing and security",
+                "cpvDescriptionExpanded": "Research and development services and related consultancy services, Administration, defence and social security services, Business services: law, marketing, consulting, recruitment, printing and security",
+                "publishedDate": "2026-09-04T10:17:55+01:00",
+                "deadlineDate": "2026-09-18T12:00:00+01:00",
+                "awardedDate": null,
+                "awardedValue": 0,
+                "awardedSupplier": null,
+                "approachMarketDate": null,
+                "valueLow": 25000,
+                "valueHigh": 25000,
+                "postcode": "",
+                "coordinates": "0,0",
+                "isSubNotice": false,
+                "noticeType": "Contract",
+                "noticeStatus": "Open",
+                "isSuitableForSme": true,
+                "isSuitableForVco": false,
+                "lastNotifableUpdate": "2026-09-04T10:17:55+01:00",
+                "organisationName": "Rochdale Boroughwide Housing",
+                "sector": "",
+                "cpvCodes": "73000000 75000000 79000000",
+                "cpvCodesExtended": "73000000 75000000 79000000",
+                "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "regionText": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+                "start": "2026-10-10T00:00:00+01:00",
+                "end": "2028-10-10T00:00:00+01:00"
             }
         },
         {
@@ -3123,11 +3195,11 @@
             },
             {
                 "key": "East Midlands",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "East of England",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "Egypt",
@@ -3139,31 +3211,31 @@
             },
             {
                 "key": "North East",
-                "value": "34"
+                "value": "35"
             },
             {
                 "key": "North West",
-                "value": "35"
-            },
-            {
-                "key": "Yorkshire and The Humber",
-                "value": "41"
-            },
-            {
-                "key": "West Midlands",
-                "value": "39"
-            },
-            {
-                "key": "London",
                 "value": "36"
             },
             {
-                "key": "South East",
+                "key": "Yorkshire and The Humber",
+                "value": "42"
+            },
+            {
+                "key": "West Midlands",
+                "value": "40"
+            },
+            {
+                "key": "London",
                 "value": "37"
             },
             {
+                "key": "South East",
+                "value": "38"
+            },
+            {
                 "key": "South West",
-                "value": "35"
+                "value": "36"
             },
             {
                 "key": "Estonia",
@@ -4064,7 +4136,7 @@
         "items": [
             {
                 "key": "Contract",
-                "value": "90"
+                "value": "91"
             },
             {
                 "key": "Pipeline",
@@ -4072,7 +4144,7 @@
             },
             {
                 "key": "PreProcurement",
-                "value": "4"
+                "value": "5"
             }
         ],
         "other": 0
@@ -4081,7 +4153,7 @@
         "items": [
             {
                 "key": "Open",
-                "value": "95"
+                "value": "97"
             },
             {
                 "key": "Closed",
